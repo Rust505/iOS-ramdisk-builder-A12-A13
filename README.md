@@ -320,6 +320,7 @@ The iOS version does not match the build in the manifest. Use `--build <BUILD>` 
 - **SSHRD_Script**: https://github.com/verygenericname/SSHRD_Script
 - **surrealra1n**: https://github.com/pwnerblu/surrealra1n
 - **usbliter8** (A12/A13 pwn)
+- https://github.com/Pa7r0n/ICH_A12_plus_Ramdisk
 
 
 ---
