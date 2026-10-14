@@ -319,8 +319,8 @@ The iOS version does not match the build in the manifest. Use `--build <BUILD>` 
 - **The Apple Wiki** (keys): https://theapplewiki.com/wiki/Firmware_Keys
 - **SSHRD_Script**: https://github.com/verygenericname/SSHRD_Script
 - **surrealra1n**: https://github.com/pwnerblu/surrealra1n
-- **usbliter8** (A12/A13 pwn): https://github.com/verygenericname/usbliter8
-- **ipsw.me** (firmware list): https://api.ipsw.me/v4/device/iPhone12,1?type=ipsw
+- **usbliter8** (A12/A13 pwn)
+
 
 ---
 
