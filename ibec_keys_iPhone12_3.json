@@ -1,0 +1,4615 @@
+{
+  "14.0": {
+    "18A373": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c66b37bd4605c68f9e19b132f31c0192",
+        "key": "5c9aeff2471e3cd02d9f9fa8b92b39d4a05b13338eb7b10652fa7b89e217d37c"
+      },
+      "_meta": {
+        "page": "Keys:Azul 18A373 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-46850/8A4DA7D0-40E1-4079-A159-5B0983102B66/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A373_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f3d01243cc869294ff47d71e9f43de72",
+        "key": "e4e5faaa35c1f7531a119f8ef56d26690af1245ff2503a55c735835b1b47909f"
+      }
+    },
+    "18A5301v": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "90e669b16230e4c220c82cdf524e5fcd",
+        "key": "a8288307fe400cbe8cf9eff787cb5df1acc92061ff0b5b087ecd49e8e8e61a5d"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5301v (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://developer.apple.com/services-account/download?path=/WWDC_2020/iOS_14_beta/iPhone112iPhone114iPhone116iPhone123iPhone125_14.0_18A5301v_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e00a11cb8ba26802763bfa58c15a4ae2",
+        "key": "91cb6c8d5b364d1085fb7482fe667607070bc50b3be55a5d910c2c0eb98966a8"
+      }
+    },
+    "18A5319i": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "fd5d37d54d5ed78911da885ae0eaa142",
+        "key": "3537a14875afce509515aeea1acf0ec582111c66ede40c0bfa85b64112a1b3f2"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5319i (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-24391/837F42A0-9C10-4A24-AD29-46CB35AD9315/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5319i_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "841d9531fdf9e901875952f85ca1d6d3",
+        "key": "7d7eee85bb0372a82c3d61bbef2abb28cf0ad6d6393137393f82457608dfb5f0"
+      }
+    },
+    "18A5332f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "805ed85ef80b05fea5343e8d62277485",
+        "key": "fa290abc1a28efc83611971e243ce21e62eb3b6faa446176caf361fede218d57"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5332f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-30180/A6C54BDF-0F07-4F91-B7D3-9A74F9C027E0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5332f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "aee41117743a2f424fc526e4f0334112",
+        "key": "182cd62b26a111bb1e22196b1a1db9cc07bf9febdb419de8099c3ead5a7f8ae3"
+      }
+    },
+    "18A5342e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "96d435966a8f60da154b92b485f6e352",
+        "key": "fdd63868352cf6c6e686b7c119b3a95248bad2229aaed4db5362e3ce20e0efbe"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5342e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-32759/F706D55C-D379-11EA-B0C5-C2D6F28C1D02/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5342e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d71c4748c3d293adfef3d37cf5142269",
+        "key": "e3dc40e1ef2025657d7baaec8005bed0a5e7237ab9d3c16490dd717dc0ddcb55"
+      }
+    },
+    "18A5351d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "023ea56fa76212d5b19880ac3fe2f53c",
+        "key": "07beaf28b85b10fe879cd4997c3ccae1fbc31a56d188bd857ab3e099583149c3"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5351d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-35701/CAC57B5D-44C6-45A8-A9CE-21D090EF6B5B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5351d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "00f04b664596c7ffedb1e37515698b32",
+        "key": "43b9b1c64b3fca1e78ec311fe55b880f1d01d6f36538cff9e887342cdfb695b2"
+      }
+    },
+    "18A5357e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "4a3f8dc24b8eadcee6d9829e84dbc129",
+        "key": "ee33cc7aedbd2a21f09bedd38244d36f627a90e5b230bb026105d8d03f088839"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5357e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-40513/25AA6554-0260-4207-9389-1203B6BAE460/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5357e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a903233bd29faff8b1ab3b4d0fb66ccc",
+        "key": "24094618de5c08ab28dc17b53d5cb2e62cac1ec9e6f5dc6ac1ddb77440f7d026"
+      }
+    },
+    "18A5369b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8da995c35463e070464d0bf9adc746f5",
+        "key": "c3a8c6cbc2db5d0c7e1fe9db7a7e6da52793bfe360fb986597822837f84867a3"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5369b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-44749/D0024426-675F-40EF-948A-A4A8077069B5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5369b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a0c561634be187f4361779d1859b5153",
+        "key": "09fc7005ff4719b1d07aa1019d5b81ce3622081adf7c69050c8ed365e574f1db"
+      }
+    },
+    "18A5373a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8da995c35463e070464d0bf9adc746f5",
+        "key": "c3a8c6cbc2db5d0c7e1fe9db7a7e6da52793bfe360fb986597822837f84867a3"
+      },
+      "_meta": {
+        "page": "Keys:AzulSeed 18A5373a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/001-45689/1377515B-08AE-4433-9AB6-C8D2FE4981C1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0_18A5373a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a0c561634be187f4361779d1859b5153",
+        "key": "09fc7005ff4719b1d07aa1019d5b81ce3622081adf7c69050c8ed365e574f1db"
+      }
+    }
+  },
+  "14.0.1": {
+    "18A393": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c66b37bd4605c68f9e19b132f31c0192",
+        "key": "5c9aeff2471e3cd02d9f9fa8b92b39d4a05b13338eb7b10652fa7b89e217d37c"
+      },
+      "_meta": {
+        "page": "Keys:Azul 18A393 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-50347/70300CF7-57F4-4469-8DE5-4C36310594B9/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.0.1_18A393_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f3d01243cc869294ff47d71e9f43de72",
+        "key": "e4e5faaa35c1f7531a119f8ef56d26690af1245ff2503a55c735835b1b47909f"
+      }
+    }
+  },
+  "14.2": {
+    "18B91": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "4fd41112b310f501e47648d9619c2e11",
+        "key": "dc893bac017c07c13e6c815e60e660abecbc2419b38a71eeee2bf54487373e18"
+      },
+      "_meta": {
+        "page": "Keys:AzulB 18B91 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-70445/3E6B2DD9-A492-4560-99EE-CCCF40F46F29/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B91_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1627b9fb0a124b47569f10d104cafe22",
+        "key": "ffa0333f826dd6bdcb81fd012f9045de618101719bba9d1f6e249044c7d7ee7e"
+      }
+    },
+    "18B92": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "75e09287253d8c6209d859d2dd43f5d9",
+        "key": "8e746128edade1e9ae28f60d39d0e9c3170908046049bfc9a1559f294c5b9210"
+      },
+      "_meta": {
+        "page": "Keys:AzulB 18B92 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-74658/96D473B0-9ADD-4A40-8DB3-38892C812FDE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B92_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "53618797a84e23c8d2fc9a550e8fe7d0",
+        "key": "97712e1a8a6532013b55cfeb42289da876284d3da07deb4c01c79a65e7e8bb3f"
+      }
+    },
+    "18B5052h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "dc3cfd0edf5997bc04d9dc540d635263",
+        "key": "cca8c5ad7c50c24a325f6f8d6075b8982e219eb50cf8b4721bc0c9dd0f116419"
+      },
+      "_meta": {
+        "page": "Keys:AzulBSeed 18B5052h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-49477/E72EA6B0-B931-4526-A346-150381E922B2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5052h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ad934789a1833a7b3948030d71c9e3ac",
+        "key": "2ea244ca8f6f5f50dac05d3c6535fb5b83c0efc0fa443df84e2937a4ac68f32e"
+      }
+    },
+    "18B5061e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "54d899c8994a0fb16ef642f3889b7597",
+        "key": "d8747c911a2e08ed4e36962776874d5b3d87c1480e80c4734c8cdd3d12fe866c"
+      },
+      "_meta": {
+        "page": "Keys:AzulBSeed 18B5061e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-52726/1751C64C-3197-4655-83B4-380F35762D69/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5061e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6c9fb8789a92149d3a0df1662af81211",
+        "key": "8bb73a2c52d479f239870bf271aee66582b6634ba8fc037f017f5b481ef3c818"
+      }
+    },
+    "18B5072f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "00cf2ee1c5de8fecb1827276555efdd4",
+        "key": "b55705d933b91e9a1eeb732e1a26a527fcc19b48988fb43b5c3f89b8cb6be463"
+      },
+      "_meta": {
+        "page": "Keys:AzulBSeed 18B5072f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-54736/1636A79B-EA1A-4942-8DA1-85C0C8ACDB8D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5072f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "22c895429d57ff75b2e95f10ea21baf1",
+        "key": "a233b885d2db6f94af26bdbcde75f69c9e863e2029220dfb5b8e266a91843706"
+      }
+    },
+    "18B5083a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b8ba69f916fe8baf9a9bbf908ab31c54",
+        "key": "229a2a83bca44fe0de3435d41199d6375bdb18bd66a7f6d89a2cd20982c0f271"
+      },
+      "_meta": {
+        "page": "Keys:AzulBSeed 18B5083a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallSeed/fullrestores/001-60925/E8AC3CE0-028E-4944-BA5A-C47DD8CD7AD2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.2_18B5083a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2346527d0e8001b97aec17e9fb60fbe5",
+        "key": "85225519d7fb281066e7706740b8752ff31ef7911dde3b1fcab0d1cd3963c0a5"
+      }
+    }
+  },
+  "14.3": {
+    "18C65": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "907e6c5f8e14cc1f2e070bcf4171032a",
+        "key": "86febd239a6ab9c9f88d5273b7e7e1fdbfbeddb5466e19b3acb67d2141ea7642"
+      },
+      "_meta": {
+        "page": "Keys:AzulC 18C65 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020FallFCS/fullrestores/001-45083/34D1D833-994C-4E76-8539-1148E6354972/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C65_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2776e5806dc6b0f5e936f8f99253fb37",
+        "key": "c03e4914ee2dae90eb932d510bf87364a0677154f5d2161647421d66da7bd701"
+      }
+    },
+    "18C66": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "907e6c5f8e14cc1f2e070bcf4171032a",
+        "key": "86febd239a6ab9c9f88d5273b7e7e1fdbfbeddb5466e19b3acb67d2141ea7642"
+      },
+      "_meta": {
+        "page": "Keys:AzulC 18C66 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/001-87493/276DDA26-A771-413E-8BAF-FD7409E1897C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C66_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2776e5806dc6b0f5e936f8f99253fb37",
+        "key": "c03e4914ee2dae90eb932d510bf87364a0677154f5d2161647421d66da7bd701"
+      }
+    },
+    "18C5044f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "537d41198c073c5c83bddb1cca77fa90",
+        "key": "d76bcfdc9eb94fe4733792eabd3c5e482690becc76f549826dd30045f7fee55d"
+      },
+      "_meta": {
+        "page": "Keys:AzulCSeed 18C5044f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-80853/2D5E5F70-1656-411D-AD60-97049739B7F0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5044f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ba5d081e44cb4e6cab43560f819a2561",
+        "key": "201642e69849d1d92af6cfe5101d790f4f5607ff3ba3dec776feb65231742ae8"
+      }
+    },
+    "18C5054c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "244ef8c7d060508468437ea5b27b39ac",
+        "key": "4a113a635c2573c26c54dc7234bb48fe234772a526e5a4285bec5f7a131e9f28"
+      },
+      "_meta": {
+        "page": "Keys:AzulCSeed 18C5054c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-81663/C35660F4-6376-43FA-9F9B-0EC8BA5A1640/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5054c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "70ec2ad817ef7837e7bd8925b43773e2",
+        "key": "d6ac0a892f04a02adfbaec9f1520aa1ac7db5f741d26f757fb9058da51d33128"
+      }
+    },
+    "18C5061a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "244ef8c7d060508468437ea5b27b39ac",
+        "key": "4a113a635c2573c26c54dc7234bb48fe234772a526e5a4285bec5f7a131e9f28"
+      },
+      "_meta": {
+        "page": "Keys:AzulCSeed 18C5061a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-84428/A4ABBA30-C952-4DDA-A1E9-D585B972544C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.3_18C5061a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "70ec2ad817ef7837e7bd8925b43773e2",
+        "key": "d6ac0a892f04a02adfbaec9f1520aa1ac7db5f741d26f757fb9058da51d33128"
+      }
+    }
+  },
+  "14.4": {
+    "18D52": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "927ab567f5da1ac8f6de758fe2be4506",
+        "key": "06f66912cfccf38f435b5002f0cace3bbf8e2999cc0cab5e6b5d1a681289fc3a"
+      },
+      "_meta": {
+        "page": "Keys:AzulD 18D52 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/001-98182/541B0687-8E1D-45FE-8592-15988761215B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D52_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1fbcf8324434ad2ed593849508c518d3",
+        "key": "72b058797518df175f4f33474dbac5499a9e22e8a92ff0ec38c0a7992dbf1627"
+      }
+    },
+    "18D5030e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b5a2172071b5785ab02f5baaa3f95d92",
+        "key": "3f7167a16f45715c85207c1c962566664309dbb8c6e7feb78fca8f3f339086ee"
+      },
+      "_meta": {
+        "page": "Keys:AzulDSeed 18D5030e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-89692/79A96A20-C21F-4C11-B7B9-BF3758A04126/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D5030e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "90c77343d6b24bc11cb73eaf43ae344a",
+        "key": "fd1081aca42dcd42e7ddcf6c61d722feed3bf8140a5c00a4da59b71dcaf7c43e"
+      }
+    },
+    "18D5043d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "98eba0cb4c77f47bafb9ae26e7e80ed1",
+        "key": "9f755d40be7b0a9ea300a62978aa8bfc358020d13d99545e0b91670653e2cabf"
+      },
+      "_meta": {
+        "page": "Keys:AzulDSeed 18D5043d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-94861/41EB734F-360F-48A7-B24D-84636D60A018/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4_18D5043d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b4eef96b87336091be47b69eb25c67e6",
+        "key": "b4d6aa6fa0372b0fde34cd316e9e0cd7a69be8ede837506c82f11555809bc88f"
+      }
+    }
+  },
+  "14.4.1": {
+    "18D61": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "927ab567f5da1ac8f6de758fe2be4506",
+        "key": "06f66912cfccf38f435b5002f0cace3bbf8e2999cc0cab5e6b5d1a681289fc3a"
+      },
+      "_meta": {
+        "page": "Keys:AzulD 18D61 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/071-12431/94EB0E66-1068-4B52-8DFE-9F05C5F1DD62/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.1_18D61_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1fbcf8324434ad2ed593849508c518d3",
+        "key": "72b058797518df175f4f33474dbac5499a9e22e8a92ff0ec38c0a7992dbf1627"
+      }
+    }
+  },
+  "14.4.2": {
+    "18D70": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "927ab567f5da1ac8f6de758fe2be4506",
+        "key": "06f66912cfccf38f435b5002f0cace3bbf8e2999cc0cab5e6b5d1a681289fc3a"
+      },
+      "_meta": {
+        "page": "Keys:AzulD 18D70 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterFCS/fullrestores/071-22729/77571761-8A7F-4F67-BB19-12D9BC82405B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.4.2_18D70_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1fbcf8324434ad2ed593849508c518d3",
+        "key": "72b058797518df175f4f33474dbac5499a9e22e8a92ff0ec38c0a7992dbf1627"
+      }
+    }
+  },
+  "14.5": {
+    "18E199": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "99084489d0a9bbd95979faf7fcffd711",
+        "key": "073c5921741d9ca0dcf29e4fee3c03f547622d385e1e9340e98401ac590ab6e7"
+      },
+      "_meta": {
+        "page": "Keys:AzulE 18E199 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-17683/D86CD51B-4DF2-4394-8BDA-391894407C54/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E199_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2fcd1947a049861734c0f60d3eab21f4",
+        "key": "6f23e128c93c81f57753f05fbd163efc39d3eb88bb1f1d15c625123381bff510"
+      }
+    },
+    "18E5140j": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6a69e0687b00dab45dfb76387eaa2415",
+        "key": "27803d625795493f9e5d168e7f431b312cf7ebffedda38a964c22ae4e1e560bf"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5140j (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-02860/A6484B7E-A29C-4BAB-9038-ED57BE6FE4D1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5140j_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d9e718ea374145798c9593d02ee912c9",
+        "key": "5bc4241fdc71f1fb94c8ddc3248ec5fdc1dac73935d0d311f19dbb98cd44d926"
+      }
+    },
+    "18E5140k": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6a69e0687b00dab45dfb76387eaa2415",
+        "key": "27803d625795493f9e5d168e7f431b312cf7ebffedda38a964c22ae4e1e560bf"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5140k (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-03570/77792549-99D5-4057-922A-45E31232D52E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5140k_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d9e718ea374145798c9593d02ee912c9",
+        "key": "5bc4241fdc71f1fb94c8ddc3248ec5fdc1dac73935d0d311f19dbb98cd44d926"
+      }
+    },
+    "18E5154f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "18d0624773628538c4cf32adf750886e",
+        "key": "97eee0210ab63bdd75665d84bc6759731e05fbf214fdcb583f96f692ac3172c7"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5154f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-04804/7924DC7A-6931-4240-8372-3E37CE98D7B8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5154f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2b26b803ed4607abdbb7e8ff269fc310",
+        "key": "80b202a3c68d79dc4503667427488a9b76347add286bde65b1e887d560ba4e7b"
+      }
+    },
+    "18E5164h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8feff7ea11716bd511ae8671edff4332",
+        "key": "615c829c5f5d95ce8dc2d2b29c623f62f560e910e9df925d238468d6f55d9ca0"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5164h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/071-10620/526589BF-7646-4ADB-8BBE-88408D1DDAF9/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5164h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b8f970092211a9d1c71722ebf79ecd5f",
+        "key": "1893f55078bcc6596d0e9ecc58e821181caf77c10a4e798f40526f3967c74273"
+      }
+    },
+    "18E5178a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "22dc24511b7f38662fe296ca6daa5636",
+        "key": "71e9313207b8b2c9cddafe496b98bd4817ca5600f81a5c64894983f0641b10b6"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5178a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-17171/166B9224-4DC2-44CE-9A5B-61AF08534180/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5178a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "4b4fd8c4e7610e7f66672e6c52b75f96",
+        "key": "47ee7ed56bb3b362d9994eda46e8cc677088d2a03911a8ba5fff439a702d3a9b"
+      }
+    },
+    "18E5186a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "97249f87d1f06a70c7c36ed2fbeaa8c8",
+        "key": "2cfde3614de375d695202cc3097e27bd538d30514932fc5b28bf0b46b86d7c82"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5186a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-19296/880D1708-2B6E-4F75-867B-2F23BC8C407B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5186a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "2e949e6f0008e431320f22ff7ad959c7",
+        "key": "e25d14d1fdeb987711474bb818951903b1df4a3ccca7c6d1b52843f886f4c5c6"
+      }
+    },
+    "18E5194a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "fb567546d922446de4acd8fc63c2d6a4",
+        "key": "1620f200ce3d3bf486dec1f49deeec839ff0d9ca1320ea5aa275f83723f3e27d"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5194a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-24584/9B30352C-B709-45BA-A890-9F101A3452D8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5194a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8327abbd7e05c9fae815687ce5eb2d59",
+        "key": "4a51acbd0549304c6f207f2228fb8689cd9f5e420a284707626d01e2e8a02e5e"
+      }
+    },
+    "18E5198a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "fb567546d922446de4acd8fc63c2d6a4",
+        "key": "1620f200ce3d3bf486dec1f49deeec839ff0d9ca1320ea5aa275f83723f3e27d"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5198a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-26998/2A03B5F8-A402-4D5B-919E-5B1B1B7DC3AB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5198a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8327abbd7e05c9fae815687ce5eb2d59",
+        "key": "4a51acbd0549304c6f207f2228fb8689cd9f5e420a284707626d01e2e8a02e5e"
+      }
+    },
+    "18E5199a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "fb567546d922446de4acd8fc63c2d6a4",
+        "key": "1620f200ce3d3bf486dec1f49deeec839ff0d9ca1320ea5aa275f83723f3e27d"
+      },
+      "_meta": {
+        "page": "Keys:AzulESeed 18E5199a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-28294/7EE5C4BB-BE09-450B-9D85-50D678456353/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5_18E5199a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8327abbd7e05c9fae815687ce5eb2d59",
+        "key": "4a51acbd0549304c6f207f2228fb8689cd9f5e420a284707626d01e2e8a02e5e"
+      }
+    }
+  },
+  "14.5.1": {
+    "18E212": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7191031e56ddf197770d02c406182212",
+        "key": "1cec6258c0213714d39d9cdbd82a0d5d2fe4e9fc4e2edc1b99151cf5ef77f303"
+      },
+      "_meta": {
+        "page": "Keys:AzulE 18E212 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-33439/92C3506B-B0FE-4546-B0BB-73D71F41E4A0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.5.1_18E212_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "847616f015ddb7ff8e0b866494ebbf79",
+        "key": "040ba1def1a9d8a59698eabb619a3dbc60ceefe2eb4f2dce9a86fcd6872b90b5"
+      }
+    }
+  },
+  "14.6": {
+    "18F71": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "bbd49bf8cc8bfee8d881e2074e10ec36",
+        "key": "0e54201504bd9b0c2905a036acebe3c855b4362679cb8d8b1e9eaf0638a55381"
+      },
+      "_meta": {
+        "page": "Keys:AzulF 18F71 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-43897/9A248B90-B97A-46E6-8D42-51F8E5BEDEA7/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F71_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "05e3aa038fb4896d387a13496e4e979f",
+        "key": "1441bb6542251a678dc9dc56c0fa07042dbe311f7542984839bc295fdf5f8c68"
+      }
+    },
+    "18F72": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "bbd49bf8cc8bfee8d881e2074e10ec36",
+        "key": "0e54201504bd9b0c2905a036acebe3c855b4362679cb8d8b1e9eaf0638a55381"
+      },
+      "_meta": {
+        "page": "Keys:AzulF 18F72 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringFCS/fullrestores/071-45389/0BCEC735-6E9A-464D-8AA7-5263C0F339B4/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F72_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "05e3aa038fb4896d387a13496e4e979f",
+        "key": "1441bb6542251a678dc9dc56c0fa07042dbe311f7542984839bc295fdf5f8c68"
+      }
+    },
+    "18F5046e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "11fe96c9b4c08cd92195a6b843b5cbd9",
+        "key": "bb79d46bbbbf183c89eed6016762cda61906bc516cc58f0d034e466c75de4c8f"
+      },
+      "_meta": {
+        "page": "Keys:AzulFSeed 18F5046e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021WinterSeed/fullrestores/071-19152/EBF28C69-EE05-470B-A164-435DD5685C12/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5046e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "5a3fddea99ffd77936afa824f5c2375e",
+        "key": "3ec662ab89775158029e8f3f7d7d5359638ef19d4238fa61c859e997013e8ce9"
+      }
+    },
+    "18F5046f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "11fe96c9b4c08cd92195a6b843b5cbd9",
+        "key": "bb79d46bbbbf183c89eed6016762cda61906bc516cc58f0d034e466c75de4c8f"
+      },
+      "_meta": {
+        "page": "Keys:AzulFSeed 18F5046f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-29595/A51CCDCF-F559-44AE-8E00-77F853901F68/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5046f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "5a3fddea99ffd77936afa824f5c2375e",
+        "key": "3ec662ab89775158029e8f3f7d7d5359638ef19d4238fa61c859e997013e8ce9"
+      }
+    },
+    "18F5055b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2118bd0d580daeca26ec85cc4887a90b",
+        "key": "26660a4dc10123291baa8af245a94d34cf375895058828575fb7faf583763c72"
+      },
+      "_meta": {
+        "page": "Keys:AzulFSeed 18F5055b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-30865/76433582-6E38-47E7-AC77-BA92AB2699CB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5055b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a674fd4b113664f2cff5243361c10985",
+        "key": "c2201e7959ce50ab7ce6f0aef67ba685bfc52f3d150893977aa1122a7c7231e0"
+      }
+    },
+    "18F5065a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7f1c6421768a6b32807a4e0a122261ef",
+        "key": "527204d68d4b1d9539c89abf6fbb3080c415840edbe805197aab9dbc132c3905"
+      },
+      "_meta": {
+        "page": "Keys:AzulFSeed 18F5065a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-39803/D4ADEA2F-6DF9-40D4-9208-8FBC98589AAE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.6_18F5065a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ce0eab929981a69d6e77740c0dca0796",
+        "key": "bcfa9bb6568a72461383d3abfc5b120db9a788d41c933fe54d557a8e679853f2"
+      }
+    }
+  },
+  "14.7": {
+    "18G68": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "112ab094d0b9c39a6082e50a3a0d573c",
+        "key": "b53b8cc2dfd8da2861e1b27caa6c4eeb44b3d96dd733c11f146e412fc1406c19"
+      },
+      "_meta": {
+        "page": "Keys:AzulG 18G68 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-69526/8AF073D9-A1A1-4073-9ECF-0449C29D7244/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G68_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0d7c2d93e9abe6f56df7b237761dfcc1",
+        "key": "ebc4b1cebc140f05fa3b52ae590dfd6ab122cab7605df01e5d49166a2b412292"
+      }
+    },
+    "18G69": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "112ab094d0b9c39a6082e50a3a0d573c",
+        "key": "b53b8cc2dfd8da2861e1b27caa6c4eeb44b3d96dd733c11f146e412fc1406c19"
+      },
+      "_meta": {
+        "page": "Keys:AzulG 18G69 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-71130/15C3C2A9-0F7B-49E4-A081-18F078953EE5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G69_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0d7c2d93e9abe6f56df7b237761dfcc1",
+        "key": "ebc4b1cebc140f05fa3b52ae590dfd6ab122cab7605df01e5d49166a2b412292"
+      }
+    },
+    "18G5023c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "912fb8333bb9275f566ebb43347b5c8d",
+        "key": "b64c885553ac72846338a4a9d63991547efdf2cdb9c1ddda3efcd72d8f8e768b"
+      },
+      "_meta": {
+        "page": "Keys:AzulGSeed 18G5023c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-36665/F0D599B6-1117-4771-9C8D-A81B20BF5F56/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5023c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "640adaefa0f32c9fab63440e6266bc35",
+        "key": "2cbf818f88df2f42f58d1f20d61fc6b2f58ecd6dd14c2d92cc2e562f69f98e9a"
+      }
+    },
+    "18G5033e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "de4d8b9ab98308f1ee52ea48546748eb",
+        "key": "7e2f79a4191a3754b35e14fae884561b0d9e9ee03741234f7b98238dfe5aac54"
+      },
+      "_meta": {
+        "page": "Keys:AzulGSeed 18G5033e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-49709/B4C3BC23-5FF7-4717-AEE9-6EBEDC324EF5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5033e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "da6ba92777015072fefcae094867b51f",
+        "key": "9e59e9eb34df779c3ea70543cfc065574cd99723043237740d8b9e80ac2751c7"
+      }
+    },
+    "18G5042c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cad7df6a82f9c550c1cd0ea9083d8758",
+        "key": "e5e9f56c64d9aa4a5a240b703df34811dba418a49094a2923c4e7b0f116c3955"
+      },
+      "_meta": {
+        "page": "Keys:AzulGSeed 18G5042c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-54808/04B6BAF9-29D0-4F6D-9638-2863CFC23B89/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5042c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f53a544462bb3389153b96b0ce043291",
+        "key": "5b0cf97fe64520b20a57fb7aaafc9f1ca8050947fcd83f5a99cd1540c91481f9"
+      }
+    },
+    "18G5052d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "dc32b14c4b2a94b903a34818e646ed77",
+        "key": "175a6e440cf879721d33b728b7df8f0cf0ae89e14bd9fa14bb38d398de5728dd"
+      },
+      "_meta": {
+        "page": "Keys:AzulGSeed 18G5052d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-60106/BCF81E1B-FBCD-467C-9FDA-363C31A61DBC/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5052d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "bba05d378538c4ac01c75afeeb55b80f",
+        "key": "2d9edd64a661970c7db603f6d0bd02ef8b8501da5b04a0b388f904c222a5a1f6"
+      }
+    },
+    "18G5063a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d913e62e71ada24ece4d2ac953678582",
+        "key": "e13ea817f9727ca0329657527be9b21a2f4c23b0f061572dbf76dd64dc24a5bf"
+      },
+      "_meta": {
+        "page": "Keys:AzulGSeed 18G5063a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SpringSeed/fullrestores/071-66550/0480992F-3AA6-4300-89F3-4126580D960D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7_18G5063a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ecc436f3c69ddcb7cf73ec097a6467df",
+        "key": "8765d0eab28d3d693fe5509d3388b0d4d79c55d313db3058603a3a82e0a1df73"
+      }
+    }
+  },
+  "14.7.1": {
+    "18G82": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b9f29afb4183ed8abf9bfdff5c923fb3",
+        "key": "fc1535d3ef9a7738b0e330a762af6b5220dc38e38342174930ba996fea6cf0d3"
+      },
+      "_meta": {
+        "page": "Keys:AzulG 18G82 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerFCS/fullrestores/071-73966/B2F4517C-A57C-48D3-88B6-9A718A774EA6/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.7.1_18G82_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b9d58b9252f8761d0b307360e54caa15",
+        "key": "7b4c4dc961541cd3f4c5cc6ebf838612e1adc6fc7867afa695dd2e5c574619e7"
+      }
+    }
+  },
+  "14.1": {
+    "18A8395": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e5d30d6f78fa33894216f315b001f2e7",
+        "key": "733575d5e7a4802febee350394ad7c7e199e6d1b82274889ba38313fb77b389e"
+      },
+      "_meta": {
+        "page": "Keys:AzulHW 18A8395 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-56818/6B759F96-8259-4644-92A0-771C9E21E965/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_14.1_18A8395_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "07f473b8a3fd5f370436e70d740927a2",
+        "key": "ff828d117992c84d36be643f5768361165b2d688eacfffefeaadf944abccbd5b"
+      }
+    }
+  },
+  "14.8": {
+    "18H17": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "934fc9f5cf8dee28972fa82b639948de",
+        "key": "0db4014ece0c666fdfcefcb696debfb176c9a374ae103cd4a492a55dad4c0960"
+      },
+      "_meta": {
+        "page": "Keys:AzulSecuritySky 18H17 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-98087/C29E3FB8-8BDF-48F9-A794-C65E95629AF6/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_14.8_18H17_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b8289a4d5429e63ceaeb6042e5ea1e16",
+        "key": "cf9f201d7c2ef3bbdf41ccd83079956bc732adca03c9e491faef1f5de5f36c83"
+      }
+    }
+  },
+  "14.8.1": {
+    "18H107": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "053eea1c6b383e41b0d73214cfa481d5",
+        "key": "0d6b4bcc12928b1f7e97d788049895c55e9539dc7d561f4451dbc3fe07f815dd"
+      },
+      "_meta": {
+        "page": "Keys:AzulSecuritySkyB 18H107 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FCSFall/patches/002-26339/44F15475-7D79-43A6-82D0-A52D736E5BC6/com_apple_MobileAsset_SoftwareUpdate/91143dc4fb6584ebaaf697278cad5a81a6aa0150.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d8ed2fb27fbd948611144b20bee73189",
+        "key": "fe39ad861ce08f1a7dce4609467e5f01673b094746b59e09c84478a9ff616500"
+      }
+    }
+  },
+  "17.0": {
+    "21A329": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a31c3571a86b4e68e8e05f0f1c55d873",
+        "key": "822617831957f1511e98bcd11cb19c26d5a919e698a89e32520a17f44e622d80"
+      },
+      "_meta": {
+        "page": "Keys:Dawn 21A329 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-49447/F528276C-A733-40ED-AA3F-E11966912D77/iPhone12,3,iPhone12,5_17.0_21A329_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3b01188f59ff17a271c11584156690f3",
+        "key": "108dabb2038e37b338f2ccd183e25ba6bb0e28e26489db8cfd32c8adead4322e"
+      }
+    },
+    "21A5248v": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0512ebb5701a3fb09c41ba2b0882fed2",
+        "key": "94bfc2229686ca01aeecc7ad677a194c58ac06d0121e74aca5182b520a76c6f6"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5248v (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://developer.apple.com/services-account/download?path=/WWDC_2023/iOS_17_beta_Restore_Images/iPhone123iPhone125_17.0_21A5248v_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "dba8927c731e4cc1b843f6aef0b6aa35",
+        "key": "de77e782bbd65a4bd3bd4ea6d02bb1927436d60cf6be5db18ac5c5742d377912"
+      }
+    },
+    "21A5268h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9d2c519b54c8c438cf810e7e6fd40c58",
+        "key": "dfd3a405f47af5c740c5ff878cdb1b13f0422fcf76f6c6a25e48dba24c6d4000"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5268h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/032-96111/8ED11828-30A3-4721-8A8A-71A04FCA6E08/iPhone12,3,iPhone12,5_17.0_21A5268h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ef0a7adc82136057959d24a04275c5ef",
+        "key": "48cef12ba18cf24e37755393749a0281a86bce4d8b04bda6bb4504396f03c938"
+      }
+    },
+    "21A5277h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0acedf5cc5f44f6c758daefcfcc43deb",
+        "key": "711e50328b6b48334bf1a10e29813b8e65c827edf8820ec8ff3c90a56230459b"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5277h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-11871/18933490-EF70-40F4-A93E-068893DCDEE7/iPhone12,3,iPhone12,5_17.0_21A5277h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "74cf1f42cfa57005e4daefe6cf50416c",
+        "key": "6b6e1a2d3e1ce67a88b71d1e442da3bd73378979f8213b001a6ac115e8aa4d09"
+      }
+    },
+    "21A5277j": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c52ad28ce5ea0146ea7a7991cadde25f",
+        "key": "3ba85d199c593e0e88bf620325348f2afbf459d45230d0e02f531ca178a4ac6a"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5277j (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-13069/8E2532C6-2E2F-4AB9-AFB9-6D841112C846/iPhone12,3,iPhone12,5_17.0_21A5277j_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "bb7553aa6ceff27448c1cd4daa44659d",
+        "key": "be5c39e98104bce8533347fbdb941d5d292a3b83451767ebd846bbffa48ef075"
+      }
+    },
+    "21A5291h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ea8c233c2c4d57091b5ce0595e66d285",
+        "key": "9cb4bd1b1db3265ee5033bb4f052373a3dc6e59236836d7271838451fda645a0"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5291h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-21950/92AD86DC-A651-49A2-A7EA-A97268D18363/iPhone12,3,iPhone12,5_17.0_21A5291h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8d4bd77fc0d0bd8cbac30d12fc7bf352",
+        "key": "1eb6a9f44da0aacfeb4e0b14fad5d78084b09a90f22fed635fc1a3f4ba27b9db"
+      }
+    },
+    "21A5291j": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ea8c233c2c4d57091b5ce0595e66d285",
+        "key": "9cb4bd1b1db3265ee5033bb4f052373a3dc6e59236836d7271838451fda645a0"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5291j (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-25870/7ED08639-1848-4883-AEC5-27C48B46E49E/iPhone12,3,iPhone12,5_17.0_21A5291j_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8d4bd77fc0d0bd8cbac30d12fc7bf352",
+        "key": "1eb6a9f44da0aacfeb4e0b14fad5d78084b09a90f22fed635fc1a3f4ba27b9db"
+      }
+    },
+    "21A5303d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "f032a112b98f2c3728955129b4414141",
+        "key": "c805d8d1a12873f8915d2a931cbb69388ae75aeac90fba72dc4e13b8d37cc5d9"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5303d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-26976/A214EFCB-F721-4F0E-A5BC-FE6CDB66F6CF/iPhone12,3,iPhone12,5_17.0_21A5303d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d5f74f834b44a086d0ac04038260890d",
+        "key": "499e45902160b2b80438457b64dc1f512fcc0be2a6ec7bb6e4b3f05604b98076"
+      }
+    },
+    "21A5312c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d0b44cc0ce9676d1aaefbabc90e90848",
+        "key": "fa71c81a5a0f5a1545bd9c5cda283833a26c36a65f8c1f79e4c96e6ebdf36c20"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5312c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-30052/840B30AE-498B-4149-99F8-3F1C4C464686/iPhone12,3,iPhone12,5_17.0_21A5312c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ed879153bfdd7c7442d422babefd84e2",
+        "key": "de0c4b9316123520ad08cf8735af035dac0bc8fa7c8ac8bb73b510e540ec9b2d"
+      }
+    },
+    "21A5319a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b6640b6c9470d8008571e743163692be",
+        "key": "6b312ed0e2fd068232ea64220fe3d66ad50f99060d76028e4e33af8e836ee613"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5319a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-36938/65169742-A60D-41BA-9ED8-8A87D367E36D/iPhone12,3,iPhone12,5_17.0_21A5319a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "96a349fa033dbd1379fc183b53089a63",
+        "key": "27a70c373ba54c2bce41a9de3a12f9e6e92ccb1841ad7b89490b92476e43c289"
+      }
+    },
+    "21A5326a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e11c619aa3b9329d5b827248d3417b3d",
+        "key": "77139e1232cff107d69d447505a47afb5fa856282f7a31c2d1265c004dccc166"
+      },
+      "_meta": {
+        "page": "Keys:DawnSeed 21A5326a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerSeed/fullrestores/042-38397/7C3060CC-F83C-486F-9C5D-EF60DEAFF74E/iPhone12,3,iPhone12,5_17.0_21A5326a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6f4e099f2c4f835406a2994b6bb95b70",
+        "key": "4b3688f87534df7e51d63abc36859bc9eae0121f54c4e37b31ef6ee606875460"
+      }
+    }
+  },
+  "17.0.1": {
+    "21A340": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1180d52c217c061814f979219e267452",
+        "key": "7815958a732403d2891b637be201886ac8d2eb97fb9935ec0f8c00d2a8095c1a"
+      },
+      "_meta": {
+        "page": "Keys:Dawn 21A340 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-55429/76D4C0A5-08A1-48D9-93F8-E5FF7B823E82/iPhone12,3,iPhone12,5_17.0.1_21A340_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "90a96f895d62b633d8fe15d6d21a4491",
+        "key": "cc4b4a8d3bb8febaf2dbc9b2c48a7adf4871e164ef79f57d1cb728a69143f1ee"
+      }
+    }
+  },
+  "17.0.2": {
+    "21A351": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a99d4f8cd196bbc4bd3e59858eb15764",
+        "key": "efaebbe355446d342dc0561412c9aeb7e4f499c2883ad7225d0de28ec6fa8aa6"
+      },
+      "_meta": {
+        "page": "Keys:Dawn 21A351 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-64873/4AFDF345-7D6E-4A82-8BA9-FFB748CBCAA1/iPhone12,3,iPhone12,5_17.0.2_21A351_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "207372561dacea896b812a6280c3e218",
+        "key": "2d6a9d86f569a97ae2f1f9c0182c22712b17af544c845fd3a17c58b3c5c955d5"
+      }
+    }
+  },
+  "17.0.3": {
+    "21A360": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "60658ac5072c6a35a3e79ab4b698e987",
+        "key": "8bb63a0bd36792f68b2a083cf4a7fd599d9736ce050cae9d5a9dfc159d40f8e3"
+      },
+      "_meta": {
+        "page": "Keys:Dawn 21A360 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-72275/BB252479-DC2B-47A6-A805-18BAAB8FD6CF/iPhone12,3,iPhone12,5_17.0.3_21A360_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3528c1da9c85fd744c3aecfbfad62c48",
+        "key": "a5342b8fc7017a1b31a2474d439d19c97fb78bd05223ee8b887660c7529cf35a"
+      }
+    }
+  },
+  "17.1.2": {
+    "21B101": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3a123aa51261c91890178e0fa0228c66",
+        "key": "0f36c19b18114cf1d14c52ad0ccaa8b55aad6dc7a828afe9e13a08450757efad"
+      },
+      "_meta": {
+        "page": "Keys:DawnB 21B101 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/052-10791/9B9ACB5E-EE6F-482F-94CD-FDCF0FB0BFEC/iPhone12,3,iPhone12,5_17.1.2_21B101_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8c66b7e02d53e007fbeff1895118100b",
+        "key": "8e5300dc89f25e53539d9be8246fb3f6a3a3f684c0281c10033f269c1a119767"
+      }
+    }
+  },
+  "17.1": {
+    "21B74": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8d65df522018a10a782e092561e607c7",
+        "key": "52cf2d49673177a387d9cd9f51c39b42bc008b328489cd8adb9427d44d14e5cd"
+      },
+      "_meta": {
+        "page": "Keys:DawnB 21B74 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-07625/9540F667-15F1-4935-8402-043FBE14D20B/iPhone12,3,iPhone12,5_17.1_21B74_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b1e5d4670ad92a28170be6a713fda33c",
+        "key": "f28ab6c435e9fbca3fc2e2f662c5898b6cd24f6b4d7e3ddf27a5a0db70dba5b8"
+      }
+    },
+    "21B5045h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8f805ff82cb763ac8cf8dfce5565af92",
+        "key": "1c93da7bdc1d6d8f88233caf5cae5544ba7215a48812aa418939e77a4fe8c573"
+      },
+      "_meta": {
+        "page": "Keys:DawnBSeed 21B5045h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65202/4A503A08-45A6-4E74-9C7E-C8C6950FF4D2/iPhone12,3,iPhone12,5_17.1_21B5045h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "05b6ed200e43c08089c362f32483ffc3",
+        "key": "dd7d567e9cd32b48b95a338109c3e9e39ebcc7bd8062c8525bb3bd1566929dfc"
+      }
+    },
+    "21B5056e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c4f2a1b67d4a12a7389a891b8fa7142e",
+        "key": "3462ad2858909a225d6d54f314e1a4e5528598b988f3d91e7476b6be373cc0da"
+      },
+      "_meta": {
+        "page": "Keys:DawnBSeed 21B5056e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-65804/96255073-7D5F-472E-85E3-D5586ED032B4/iPhone12,3,iPhone12,5_17.1_21B5056e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e5ae700684b75df59d19493b72100894",
+        "key": "abfbdbe6a0e02607bda40b22079b1f79d13c1b0d7f71d7351dfd7084b639fd54"
+      }
+    },
+    "21B5066a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "001e74ae5bef27aa097681f27404b5d2",
+        "key": "a499a77b915a058151e206e2883edcf942e1a3f1ecd382a476eb2c654e5980f0"
+      },
+      "_meta": {
+        "page": "Keys:DawnBSeed 21B5066a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-74206/D36F257F-3C9A-4134-9736-171C090BA766/iPhone12,3,iPhone12,5_17.1_21B5066a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cbb3614ea08c59c3012a843000408d50",
+        "key": "757ac31d8818298d24fd33902951196d338d7fd34c04fd8a105a9af2483ca91f"
+      }
+    }
+  },
+  "17.1.1": {
+    "21B91": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "20006cc494f805cb757eff25ec0bb558",
+        "key": "2639a865dfc04b88cd775fb616d967c1aadb3c1434139a4cd8f18f45b1d818bd"
+      },
+      "_meta": {
+        "page": "Keys:DawnB 21B91 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-96120/0969731E-74CC-41DA-B388-9787C631DF92/iPhone12,3,iPhone12,5_17.1.1_21B91_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "023ae9dd9b2ad23053698cad41c9f073",
+        "key": "362eb1c754db2f134c788a34334feafa58b47a08855e25ddfb7bd798a5a96652"
+      }
+    }
+  },
+  "17.2": {
+    "21C62": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3dde1ae0cb6c84d04ae96416a2f2d52c",
+        "key": "9a242aa6eea35b88351e7017e1b4bd35509bff8b6db456d9cd12c29f5b5888bb"
+      },
+      "_meta": {
+        "page": "Keys:DawnC 21C62 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/042-36631/93E2B1E5-DC72-4608-8BE4-EDBC8EC19E21/iPhone12,3,iPhone12,5_17.2_21C62_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7ff9ad8af0f7c1ae2f67ef89d31f6e57",
+        "key": "f399a6c57ecc63d6fa6277bf49f7efc3257d7ce51b45a84c71e93397676dd5fc"
+      }
+    },
+    "21C5029g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0a174f43503439d208be40071b0b8e65",
+        "key": "f504a36d6640a04c64c4e8c61f7b8a6fd064dd6fb4309c33fe9990064528ded9"
+      },
+      "_meta": {
+        "page": "Keys:DawnCSeed 21C5029g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-89253/033AB80B-9094-4349-B43D-A3CA454DFF07/iPhone12,3,iPhone12,5_17.2_21C5029g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f68411b59d7f23cdfd4d1b684c0d49c5",
+        "key": "16cd44bcf16338e0f1f3c203497ac53226fe3728468bd906f2907246b69dc109"
+      }
+    },
+    "21C5040g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "f535df12265025d99a3029e1ae850fc7",
+        "key": "f3fe151a4a5b2d8e849d416d39e535cd131d0a55a8bbba4be96add2dccb7546e"
+      },
+      "_meta": {
+        "page": "Keys:DawnCSeed 21C5040g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/042-99581/9856ADF4-6E3E-4622-8685-5312E3EE125F/iPhone12,3,iPhone12,5_17.2_21C5040g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "26a1270ffdfcefed23b3272d05b564d7",
+        "key": "48a1ed2cc961fc1638fb0ec812aafe626d969732554eb08913c1bcf4127396b9"
+      }
+    },
+    "21C5046c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e751b40ff2071802360a3625313e4790",
+        "key": "2d6307075eb3bc735554e0e91418ffc7ce7d6b05114b365265cb6e934c2ec800"
+      },
+      "_meta": {
+        "page": "Keys:DawnCSeed 21C5046c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/052-03483/D302529C-59D2-40B5-8E06-9DA6EB5A14FA/iPhone12,3,iPhone12,5_17.2_21C5046c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ad02f20c31459814d3dc53b989a8d6a6",
+        "key": "c01a7fcfd2b3fdd7b0016466a45ee017f80d44226dc613a4dc1e4080a1367298"
+      }
+    },
+    "21C5054b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "74fc4e7a315bc4526ef3ede642dee23c",
+        "key": "08c59b317a9f35f5ca47ef69764bda648c0b6ba86f346ee536c7f01c2752d750"
+      },
+      "_meta": {
+        "page": "Keys:DawnCSeed 21C5054b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallSeed/fullrestores/052-07459/CE05DCC6-E56B-4849-9709-DF74EF15BC53/iPhone12,3,iPhone12,5_17.2_21C5054b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "72237c276d619eea48546230306daace",
+        "key": "5e1f3efff8cd1e8fdcc2ec61298196c0f3fc102612f7609a352e7810598b2a37"
+      }
+    }
+  },
+  "17.2.1": {
+    "21C66": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b4a2fbd1dfb5c9266697fd6c3593f79a",
+        "key": "2bd625f99be5104d484665fd4df166ef6831187afcd829e72843e0d59ca08bb9"
+      },
+      "_meta": {
+        "page": "Keys:DawnC 21C66 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/fullrestores/052-16372/1A685222-9235-4BF3-B467-A5E74424171C/iPhone12,3,iPhone12,5_17.2.1_21C66_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "459cdff22d8b6d57ee1462b339b97681",
+        "key": "8097b43b96e46690c01ac1523884d7ed2de15fa03b16a6dc03b26db758984faa"
+      }
+    }
+  },
+  "17.3": {
+    "21D50": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "256f72cc727aa1c78e9abaad8d499ea5",
+        "key": "860f9d59e38ee6f84e8e3ccd29b15a5dcbd24fe7b5de3897c7355e5cb9c784eb"
+      },
+      "_meta": {
+        "page": "Keys:DawnD 21D50 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/042-81356/8F73EF7E-FDAB-4AB4-A64F-8D012CA6852C/iPhone12,3,iPhone12,5_17.3_21D50_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "57e4051a63dd800874eb03b341bf85a1",
+        "key": "047adb35b8ef0e079c0effcb3c263ca1620a18ff4ce1da1c2aca59f1ec1a8a6a"
+      }
+    },
+    "21D5026f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "190d89213c2839b31be19b7eae784fac",
+        "key": "03a6cc4d46d0adb6465bceffa4ef6bd0530854614c2c129f2612bb908c9da5ff"
+      },
+      "_meta": {
+        "page": "Keys:DawnDSeed 21D5026f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/052-19920/5FD49FBC-AB74-4CE5-8CD7-597723C3368B/iPhone12,3,iPhone12,5_17.3_21D5026f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0144f9759ace800e95f3eb081d4eedd8",
+        "key": "6be6230cbc44eac0dfbcdbe16592c7665f0f7a1361d08b3cebe287503f9de1f4"
+      }
+    },
+    "21D5036c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "295194428727c5451d7a3fe38e5d3d0c",
+        "key": "50524fc0a02cc4966dd8c919e2d327a7d4e61a3e8061e0945f7dd4b1685d6dd9"
+      },
+      "_meta": {
+        "page": "Keys:DawnDSeed 21D5036c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/052-23176/8B8921E4-807D-4CF9-9B96-82053B4CF2A1/iPhone12,3,iPhone12,5_17.3_21D5036c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "83c091ba796e2275cd237f10c53eea5f",
+        "key": "2f384292d59a82c556178833669a1cab263413887cddd080c01a2e73f31c07b1"
+      }
+    },
+    "21D5044a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "279fcef0d3a139c4b8dc1910a1fcfc82",
+        "key": "48c25f9ea551bbd6a0934607276a6445eeabd17ff5ce35f7b7156c6f436b93a0"
+      },
+      "_meta": {
+        "page": "Keys:DawnDSeed 21D5044a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-27441/831B6EDF-6AA4-4B12-AE87-C7C8DCFC02A0/iPhone12,3,iPhone12,5_17.3_21D5044a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "86f129cbc70725bd60e885f42c3bca90",
+        "key": "3d0f0cda7a98b61cd7060e9f4db1b50974d65e974b9ee09c120226565db6a8ae"
+      }
+    }
+  },
+  "17.3.1": {
+    "21D61": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "85562edc86df8d50f6d6ad8e3761c9fd",
+        "key": "403ba69f695818fbddfef4d94226ab68319b2f08ef54a8025c494fbea80760ce"
+      },
+      "_meta": {
+        "page": "Keys:DawnD 21D61 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-40487/90F10DD9-C40C-4CC5-A751-0D096977F13A/iPhone12,3,iPhone12,5_17.3.1_21D61_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "bc01e9c42316496ce15bd43cb931f1aa",
+        "key": "774a8226252e4797a38117b2172bbacc0c2fabc7afc7066e6aa1003daa7b91bd"
+      }
+    }
+  },
+  "17.4": {
+    "21E217": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "93d1429be822aeb03b05bec2bb8081d9",
+        "key": "852792f4a01107ed32adb6c3fb08a1fbf88bb2ed42d7692ee19ff038313db9dd"
+      },
+      "_meta": {
+        "page": "Keys:DawnE 21E217 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/032-50785/19E8AD82-178E-426A-A9D9-9CCF5F9B4A24/iPhone12,3,iPhone12,5_17.4_21E217_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c2cc81325d882e8189705cb7317261d1",
+        "key": "0f5297865e4570bc8b493fa592ef687ab3d1663f4471022191d9b5404557d76f"
+      }
+    },
+    "21E219": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "93d1429be822aeb03b05bec2bb8081d9",
+        "key": "852792f4a01107ed32adb6c3fb08a1fbf88bb2ed42d7692ee19ff038313db9dd"
+      },
+      "_meta": {
+        "page": "Keys:DawnE 21E219 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-60888/B863E0EF-AA61-4A70-B9C6-2785DAEFD511/iPhone12,3,iPhone12,5_17.4_21E219_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c2cc81325d882e8189705cb7317261d1",
+        "key": "0f5297865e4570bc8b493fa592ef687ab3d1663f4471022191d9b5404557d76f"
+      }
+    },
+    "21E5184i": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "176f11ed59db5859305613ee5d6bbce9",
+        "key": "d1e6ebec8abb7f07bce650bcb2ecab3fe0aacbf3f1794e132b54736451981f8e"
+      },
+      "_meta": {
+        "page": "Keys:DawnESeed 21E5184i (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-39806/E243462A-A81E-4586-B1EE-054448124EA5/iPhone12,3,iPhone12,5_17.4_21E5184i_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6641ec5e3b8f0b5548c9c9954ab8ae7b",
+        "key": "fdacdfe20368a4c9a427d83f3dbcd5322317ea3629db565785dd3f317bb15df4"
+      }
+    },
+    "21E5184k": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "176f11ed59db5859305613ee5d6bbce9",
+        "key": "d1e6ebec8abb7f07bce650bcb2ecab3fe0aacbf3f1794e132b54736451981f8e"
+      },
+      "_meta": {
+        "page": "Keys:DawnESeed 21E5184k (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-45716/4489CFC8-04A2-4211-900F-60EC8ED15726/iPhone12,3,iPhone12,5_17.4_21E5184k_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6641ec5e3b8f0b5548c9c9954ab8ae7b",
+        "key": "fdacdfe20368a4c9a427d83f3dbcd5322317ea3629db565785dd3f317bb15df4"
+      }
+    },
+    "21E5195e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9bbf77575f6c707c0ad1c45a58d40dad",
+        "key": "90bc6e0df7ae830188f1a24b89e11b43c92026fca88fc8e11d94910eb71ffb5a"
+      },
+      "_meta": {
+        "page": "Keys:DawnESeed 21E5195e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-47634/171BDA77-6AFC-45F5-80B6-2CC28F04AC33/iPhone12,3,iPhone12,5_17.4_21E5195e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "800ec9b6eb35ef1b150ab48e161b7dd6",
+        "key": "c95e6f23adf58081a940a14066101aa06245da1442fbe6a0d9b0c199db8636db"
+      }
+    },
+    "21E5200d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cde80481b270c83207f5d1d9162a877a",
+        "key": "6d0812d3b0897a4647d654817e6dc0ab308dfa4e5ba32e0f0b26fd269ac736cd"
+      },
+      "_meta": {
+        "page": "Keys:DawnESeed 21E5200d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-52406/C1796047-42D9-4F70-80A7-F86BEAE1CFAF/iPhone12,3,iPhone12,5_17.4_21E5200d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "63e376cb1de0c0836a89c71c8b6c9c69",
+        "key": "89f140eb469132a744a51c4d03b9705dead6b49ef3606989b969d4be131547bc"
+      }
+    },
+    "21E5209b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "16b9afe6e19cc6b22e54bb167257bf59",
+        "key": "6bd56173b098c4b1949b40b5b8239ac13b66dfa67167987052f5de38b71fe64d"
+      },
+      "_meta": {
+        "page": "Keys:DawnESeed 21E5209b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterSeed/fullrestores/052-55922/0EEC8D7D-DFAB-42B5-B764-D3C149295138/iPhone12,3,iPhone12,5_17.4_21E5209b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d0d0eb436e61572915cbf9cfa8148cb6",
+        "key": "f578aa881212d37bddc0cb278ca5001bccc7b27af6b1ea9dab60f1b64c9e0849"
+      }
+    }
+  },
+  "17.4.1": {
+    "21E236": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9133d094ea7262731a4b895217380d13",
+        "key": "aaf6c9e01e6d81d204dcd5f358abf0ddd0365293cd6ec5a80079eb698c6639a8"
+      },
+      "_meta": {
+        "page": "Keys:DawnE 21E236 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-72786/47E1657A-2A77-496B-96CA-AE13171CD023/iPhone12,3,iPhone12,5_17.4.1_21E236_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "12ef46a9532522eb32a3d44679135156",
+        "key": "6d1e081db53b0e636f5621759d442eb2604965ada30d13b2748d32b1dc25d1a3"
+      }
+    },
+    "21E237": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9133d094ea7262731a4b895217380d13",
+        "key": "aaf6c9e01e6d81d204dcd5f358abf0ddd0365293cd6ec5a80079eb698c6639a8"
+      },
+      "_meta": {
+        "page": "Keys:DawnE 21E237 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024WinterFCS/fullrestores/052-79668/B74922D1-E0D1-46A6-A324-A1B97DFC32F6/iPhone12,3,iPhone12,5_17.4.1_21E237_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "12ef46a9532522eb32a3d44679135156",
+        "key": "6d1e081db53b0e636f5621759d442eb2604965ada30d13b2748d32b1dc25d1a3"
+      }
+    }
+  },
+  "17.5": {
+    "21F79": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "18e37781db3347450c9c40b0bd4cc737",
+        "key": "945c99ecaf155190f34e522c42a2511713558438535bb1f4ee27b500c8d96691"
+      },
+      "_meta": {
+        "page": "Keys:DawnF 21F79 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringFCS/fullrestores/052-39300/4FE26628-C36C-4AC4-A941-8846700C5F39/iPhone12,3,iPhone12,5_17.5_21F79_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "27c63027f6fb2d47ac791a98a891f479",
+        "key": "f41da85f31edfaad44d1682de7fe49e49b6e498265ccbaeb8aec32d0ca9deb06"
+      }
+    },
+    "21F5048f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "31592173d3cea921b1a4d781316c1d8e",
+        "key": "61719bc6cf2096b684b9ac55d815044ea14969fb1f0e16a68a71e16b068492b1"
+      },
+      "_meta": {
+        "page": "Keys:DawnFSeed 21F5048f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-83182/54BB670F-FFF7-4F01-9DD4-635CDBD3D80E/iPhone12,3,iPhone12,5_17.5_21F5048f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c5b0f37b7ab384e091f8c08aaf8d9ec0",
+        "key": "9acc6e5e281189a02d63c767ebdb824a51ddc494eb2f2483f13fdeaa71b3aabb"
+      }
+    },
+    "21F5058e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "247107c169648ba345b7ec173aaa4609",
+        "key": "766cb2b7dc835cae4480dfb55083a253afc8c87c1fed23accc74fe380669e703"
+      },
+      "_meta": {
+        "page": "Keys:DawnFSeed 21F5058e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-85504/5F98EA15-A45F-497C-85AC-3F6E816F0A57/iPhone12,3,iPhone12,5_17.5_21F5058e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9f921c2776c0c75ba7ea60d7ad3c895d",
+        "key": "870a6e6b2a4ce26c7681b08e81676cfcd17fbf095d63109da5d7e75251d3dfe6"
+      }
+    },
+    "21F5063f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "930f88c60ca1efe2158c136cd6b3ac8f",
+        "key": "138a58b9c28d8db22901075f543e0d859b1f8d38becae5f43eec4cf57add80f0"
+      },
+      "_meta": {
+        "page": "Keys:DawnFSeed 21F5063f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-92139/6A7812C1-EAA7-42C1-9466-FDF81151A086/iPhone12,3,iPhone12,5_17.5_21F5063f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3b6c243f7c3171c6ce2c15c9e7eb8960",
+        "key": "fa3752326191b097b2afb45061e802fc966b8669078fa0d2f9cee7dab8aba94e"
+      }
+    },
+    "21F5073b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e0587759bc298112de42ae8689e2da74",
+        "key": "3267149cf71fdb3c0b62c30ecf8cc5b2417d9a702c80c52c21ed077a93362f5d"
+      },
+      "_meta": {
+        "page": "Keys:DawnFSeed 21F5073b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/052-93696/0A999A32-A0E1-4B37-8072-9CD6094D69F5/iPhone12,3,iPhone12,5_17.5_21F5073b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c4d0ff133599728ab45b249084c272de",
+        "key": "e42fd4d5ea84524368cee27f92d1c119c841ef790e19eb11314e1cc09d01660c"
+      }
+    }
+  },
+  "17.5.1": {
+    "21F90": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "68305ea95a37b860a83d828358ce0d37",
+        "key": "32d103e11bc13f52946f050bf029801db8fe69afc42eaa563bc3d2ebfcec664f"
+      },
+      "_meta": {
+        "page": "Keys:DawnF 21F90 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringFCS/fullrestores/062-05319/2851398B-473D-4E33-AC83-4225B298DE6A/iPhone12,3,iPhone12,5_17.5.1_21F90_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e5816e6953bdf9644cddeb3adaf2e3b9",
+        "key": "b04366b382ca3038bef7aac3c11684ac446867d8f0ec13a7d15125e84264b67c"
+      }
+    }
+  },
+  "17.6.1": {
+    "21G101": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "aca53dc86b11c168358e549555d4771f",
+        "key": "93053952d186745b0c130e5b1f4e0c298434f8141d1be0c4a1a26c347f61cbdd"
+      },
+      "_meta": {
+        "page": "Keys:DawnG 21G101 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-69610/45BEBB34-ABD0-445F-89E3-31D3786F326E/iPhone12,3,iPhone12,5_17.6.1_21G101_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "93881d23438f1fdd1fb525e8cb7aa1d1",
+        "key": "0cf191632a0923d01a606c868c06d41cbf7ebc1c9c395093b10db7ee49ccf21d"
+      }
+    },
+    "21G93": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d62f47025e24fbfee8ff5a591a67956b",
+        "key": "38c6c4aa0e3a60a1443435e7119d9969eece5e4d32979036d0ed7df457e49b72"
+      },
+      "_meta": {
+        "page": "Keys:DawnG 21G93 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-57701/B292F1F4-1B75-43A8-9A41-DBF7FEDE1DBC/iPhone12,3,iPhone12,5_17.6.1_21G93_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f5a274f159dfd0dba48dfc01cdb05ac6",
+        "key": "7b17f7ed558a1064ec69bdfe9326c48af52286e66a8808d4ac42373e60fd9706"
+      }
+    }
+  },
+  "17.6": {
+    "21G79": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2c664bf153b4561b89005e8a81836ad9",
+        "key": "6ee66a3731e00de6942d13c480c0183d37f2bf461bf3cbd95f0bf0430902b505"
+      },
+      "_meta": {
+        "page": "Keys:DawnG 21G79 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/052-70016/681C7EAB-1B3C-41CD-8D1B-481C6C8D29C8/iPhone12,3,iPhone12,5_17.6_21G79_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8c100c5184eb0aa8e364caff4acab001",
+        "key": "b9def5739d480e19c44527abc4b0f6c66b0efcf65a00bb6ea75a1de1c229bc09"
+      }
+    },
+    "21G80": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2c664bf153b4561b89005e8a81836ad9",
+        "key": "6ee66a3731e00de6942d13c480c0183d37f2bf461bf3cbd95f0bf0430902b505"
+      },
+      "_meta": {
+        "page": "Keys:DawnG 21G80 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SummerFCS/fullrestores/062-44763/CDD905B0-CCC8-4241-8FA3-5AD225EA5197/iPhone12,3,iPhone12,5_17.6_21G80_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8c100c5184eb0aa8e364caff4acab001",
+        "key": "b9def5739d480e19c44527abc4b0f6c66b0efcf65a00bb6ea75a1de1c229bc09"
+      }
+    },
+    "21G5052e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "56a3bc00d60b8419e9988c4b99f1096d",
+        "key": "c32fe251113fe1d57b71bbe31e30e7983aabda5d3c810107fbc4aabaa8dde1f5"
+      },
+      "_meta": {
+        "page": "Keys:DawnGSeed 21G5052e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-16902/756F9071-4E97-48CE-8D80-210A96B084DE/iPhone12,3,iPhone12,5_17.6_21G5052e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0587a500c298ed76b0c7df6d89ff7946",
+        "key": "723f84402b4c07709cebd6c11efffe4c0716da5c4ebd425c449467f2e12f8040"
+      }
+    },
+    "21G5061c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "784d1ee8ab3511c6cf9c4f750f3ebfb0",
+        "key": "764472a50ec24c01323ee651843fc43d204ddf63c241179a4100ad3dd9eeac91"
+      },
+      "_meta": {
+        "page": "Keys:DawnGSeed 21G5061c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-20453/2EC15524-4837-4ABB-AAAF-46055793AFB5/iPhone12,3,iPhone12,5_17.6_21G5061c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "09f95c184e51fb04fc96e352fa2c852c",
+        "key": "e3dd8fd9b100f2dcb16bab78c5c603d5975a1bdc42ded4c3763f5aa13c1bb10a"
+      }
+    },
+    "21G5066d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "911fbd73003d2ad87ca68ffea97618f0",
+        "key": "007c13acd8e6dc5784c95eb9fb3e1acf49848eec9c4f1031fba54e726937f564"
+      },
+      "_meta": {
+        "page": "Keys:DawnGSeed 21G5066d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-28412/60CB3A8E-A59F-48C9-8A44-185721487518/iPhone12,3,iPhone12,5_17.6_21G5066d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "56c439e933246201d599d2a6a073120d",
+        "key": "8fc81f716ff9c63c8bf28874fd2d75651625297d3429bacdea199df7b1bf7efa"
+      }
+    },
+    "21G5075a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7fc90cab02de473f52b5d584994b9538",
+        "key": "84221789c1fc5b0cdf8e7e6cd9ed6cf36b872a5bf75adc3b7eed545cd5b39952"
+      },
+      "_meta": {
+        "page": "Keys:DawnGSeed 21G5075a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024SpringSeed/fullrestores/062-35950/38CD58F4-9A17-4AC0-A024-7FF85322ED80/iPhone12,3,iPhone12,5_17.6_21G5075a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6cff6cfea52359367b863f54cea2b510",
+        "key": "460fcf55132fa938652e6a5684e93e27ac6edee4b68b2c9466630512d52acf74"
+      }
+    }
+  },
+  "17.7": {
+    "21H16": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ab0862a475094e54462632b849dbd091",
+        "key": "10e6e292838cfd509022331985522d1dabb3429089a99c21012a910b4312660b"
+      },
+      "_meta": {
+        "page": "Keys:DawnSecurityCrystal 21H16 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024FallFCS/fullrestores/062-79021/D1C2EDBF-4F40-407A-B2C5-C0D92E0FA251/iPhone12,3,iPhone12,5_17.7_21H16_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "62afc40f891d1985096daacc1fa141f8",
+        "key": "7362d5d9778e69b878749fc97b6512d8855189be5b47665fc9b7a55af3459f71"
+      }
+    }
+  },
+  "17.7.1": {
+    "21H216": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c42c46754a77c16f742ba0bda9c04e61",
+        "key": "3f6659cc8410f18e154bf110c9aba9bec87860597ae02b19cb2766fa007cc1ac"
+      },
+      "_meta": {
+        "page": "Keys:DawnSecurityCrystalB 21H216 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024FallFCS/patches/062-68897/B7A90FCD-2086-48B0-BDD5-347F45785D73/com_apple_MobileAsset_SoftwareUpdate/50a1858d3cc8d60ce2b692398411610b8f454933.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "fbdcdf5f659e808347f613170ba7c250",
+        "key": "8254d5205e8ea936c57968fd0746bbb70cf480a489ab0f4386e6e439de683c75"
+      }
+    }
+  },
+  "17.7.2": {
+    "21H221": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d537b7ab3328643331986e4c5be3f2cd",
+        "key": "96190e06e9e514a3b73feeca2f16cda81e404219d7f2489dad55a34f0ec0f1ab"
+      },
+      "_meta": {
+        "page": "Keys:DawnSecurityCrystalB 21H221 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2024FallFCS/patches/072-31772/81C635DE-7E90-4D24-BB1B-982F09DCA87C/com_apple_MobileAsset_SoftwareUpdate/23c511ab7e3a3d11fae84e756bc3e93a7134fb1b.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f59c842d0c81495dbe31d27ea0f3784d",
+        "key": "dfa2bc710920d9caaa94445e896fbd40747dead5a47dd4b4fa688834913095b1"
+      }
+    }
+  },
+  "15.0": {
+    "19A344": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "05dcd4e5277b0306b04d5229a528fd8b",
+        "key": "22cd976f981d5c2b6a9f695bf127d51598942bb62b0dc4a9063b97f375aa5677"
+      },
+      "_meta": {
+        "page": "Keys:Sky 19A344 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-96809/2CB6C4F9-A703-4721-9ADF-C3D3649D98CB/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A344_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "913d3ae126bccb781f72452b16dc4387",
+        "key": "40b2351c0be65882299f8bfec590d51f2811c5f119210b5e291ad1a7b833c0c7"
+      }
+    },
+    "19A346": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "869687abd43696bf14d8c2e93d5225e7",
+        "key": "fd404d557d8c2d42161f62d68a0a260ae375701270f39229657aca1dc0f9bcd3"
+      },
+      "_meta": {
+        "page": "Keys:Sky 19A346 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-02879/CF24F586-A099-4E0C-A523-75ED6E459A7C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A346_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e69482944a9e3ac79117755b72250ed3",
+        "key": "214294fca4e21feec3fad5fb343a67067da3b0f350102d952c912ee9ab2d2779"
+      }
+    },
+    "19A5261w": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "981ab4120389f2ecb3eca02afe591fb5",
+        "key": "a88802f932e82a7b4ec404a7e3b725310cb64fbea51b2704b0b10ffebfe030af"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5261w (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://developer.apple.com/services-account/download?path=/WWDC_2021/iOS_15_beta/iPhone112iPhone114iPhone116iPhone123iPhone125_15.0_19A5261w_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c86ffab08f3ec96e8e9fd79ffc0e5157",
+        "key": "a7f18c183f388cabed2cde706fccbd73b425b710140499a11fde126f7648803e"
+      }
+    },
+    "19A5281h": {
+      "release": {
+        "filename": "iBEC.d421.DEVELOPMENT.im4p",
+        "iv": "daeef6407d3b5e239fb7dfaf749a4e3c",
+        "key": "f1fd24022e40a62e04aa06fdb2772e3d046861d56eadc803d3e7937ede880b2d"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5281h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/patches/071-59268/F94D9401-160E-4AB5-8969-B0D65E184C56/com_apple_MobileAsset_SoftwareUpdate/4e07f679e17f91bbf1cb0fe0f18b898f1ff7f8f8.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.DEVELOPMENT.im4p",
+        "iv": "15790d7323d8238237c72f6043b1724f",
+        "key": "07a9e19d7e45af63b91fecf8d47a493a4d244918a084bdbc613e83cf339bdfbc"
+      }
+    },
+    "19A5281j": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "da428ca13ade4ef9a0580a62796d5d6d",
+        "key": "4bc4310ceab3db164a5715e45f31a97989eea69a5cddbed0ff3c223448b2082f"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5281j (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-61582/83525106-57B8-4DF3-91F2-19B199200B30/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5281j_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "33ea33f8c003248da9312dd855942e51",
+        "key": "165f1333162bbb44c416e190f6adbaf7af53a0e0e2ec289807ea07e37ede5205"
+      }
+    },
+    "19A5297e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "98307c0b59e710388cbc6dfe1b7a497d",
+        "key": "c4e294a01d12e159c730bcc01146f5b3920188bd4df24a6c0825259cb3cc19b5"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5297e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-63566/8F5118A0-CDE1-4F1E-891A-0C98E1E7BEB5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5297e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9cafeee567a34185f3f5d00ed1d82082",
+        "key": "629cf247eb5393baf9bb5f32995d4a8c06cb90fc3d791986eeff49010a57a165"
+      }
+    },
+    "19A5307g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8b1ba5d06f37697b6839522d5be50ab5",
+        "key": "2b4e71ffc156c8d4ae74a137f6d7f20e0a0f13ebec1eefdd25ef67b724a8d0e0"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5307g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-75919/A253BEEF-8EEC-40EA-9793-40BC32F631AD/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5307g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "097838fefcd698df4da5a6fe4a4e4a9d",
+        "key": "0a64c941ab3e870ae65c195130b0aff2464de1e1a8654569e69e179743506963"
+      }
+    },
+    "19A5318f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cc0b556bbe5295a9ade5c1ee4bee71b7",
+        "key": "32632e560b52c312f1c88c3229c3248229555d90e59d81a54a3a3665d2650774"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5318f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-80067/1994DB5B-0098-4DAF-8733-2A6A1E6EDA6D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5318f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "23c6c1710556c8b0ea120a64a614c097",
+        "key": "cad720a3dfe71c7941ccb080a7dbf6e40a7cbf8e9cff4f69b2a505644c5026f4"
+      }
+    },
+    "19A5325f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2cc68f8ae017aecd5d8df4a74c2a6a43",
+        "key": "b836769dec1fdba5fa62f381320a5923d86f473828f362d45310bedab95139d7"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5325f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-84330/9743552B-2AC3-4C19-B4D4-9900A7D2399E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5325f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "568ea8cf4b06fae2516d885cb7d100fa",
+        "key": "9922459cfd748ee5d6f503b4b1df3d6045f82596299e06fc9387eab1d1cf32eb"
+      }
+    },
+    "19A5337a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9915b804caf2125ad063ad73583c6d3b",
+        "key": "f22bf2438a65f4828fc199f371068beef1273b08852bf113d842dc7580e6e11d"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5337a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-88853/6D5B907A-3B59-46E6-99E5-6DAB4D738E52/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5337a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6230eb3239b02a49a456672b95b3a515",
+        "key": "875385956aefe4ae545f3804ee50edd10fe64ff8a1eba48ab6898a0f403788c0"
+      }
+    },
+    "19A5340a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9bd9f3fd546895a4555cf11face22b97",
+        "key": "86c0e550e66ba08e1646b6b7b716120410502849d9fa37f6c9b82158986ee72a"
+      },
+      "_meta": {
+        "page": "Keys:SkySeed 19A5340a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021SummerSeed/fullrestores/071-89498/D9B24FE2-C369-46BB-9CF3-9DA53E064471/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0_19A5340a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7da7756ef853e7d487a8400ca8e9b7bd",
+        "key": "013acd2884d6970ad2897f9aea37e7d8a1b74355a76a10796556141e310b436b"
+      }
+    }
+  },
+  "15.0.1": {
+    "19A348": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8233b3b6038cf660f22269160c48b24e",
+        "key": "393a3459036901bf0a50eeb1574f540dd88fe11c3db43304328b465c54882a36"
+      },
+      "_meta": {
+        "page": "Keys:Sky 19A348 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/002-09697/1E3852B9-19BB-4284-AC64-2040CCB4ED0A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0.1_19A348_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "44bec7173daaa2cf2170c92529839a51",
+        "key": "36d7cae64092c4e0fb0b7afd2130a8522ee23e6c11d6e05bc10af34930fd53b7"
+      }
+    }
+  },
+  "15.0.2": {
+    "19A404": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8d821060dd02043c1e1bed6bfb59fe9b",
+        "key": "8827e039d2c9abe3003d63542e1c3cd15c042b3d03107a4d0b0a8f5c2eaf2c75"
+      },
+      "_meta": {
+        "page": "Keys:Sky 19A404 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FCSFall/fullrestores/002-14647/3EADDD4D-D5F5-440F-B70A-56211B32222B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.0.2_19A404_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9d6ff883fd375154f8bc26c8dd44875e",
+        "key": "55a56965b46071ffb29ade6364612e078fcb9e156bed0b23d773bb4aec0f4ff2"
+      }
+    }
+  },
+  "15.1": {
+    "19B74": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8bf9a34805ac03fb62773a2773a52652",
+        "key": "608a6e7e503e212e905755122a7da880e953792f3f21793739435ebf05981b7c"
+      },
+      "_meta": {
+        "page": "Keys:SkyB 19B74 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallFCS/fullrestores/071-63881/67B16087-6814-4713-89B5-DC3E97B58615/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B74_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e511e8f77f0f22662b7170a7bf74bc1a",
+        "key": "1e93f5d9bfe246234071c7a29062cd8859053ab9f9cc49e287c5c24858de5166"
+      }
+    },
+    "19B5042h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a4ce9b252154b8b0880a31fa9ea3c97f",
+        "key": "b6a9c00ea11ef0c951ea0cee0ced752bdd0dec9e6bb88ddc7c2dfac14e8544de"
+      },
+      "_meta": {
+        "page": "Keys:SkyBSeed 19B5042h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-03915/D1236987-8E6A-4957-896E-7885B4FE7DFD/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5042h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "16ef836cc87346d090945e044a78fb47",
+        "key": "cb8bb44fe5bd815225dd6cb2f79e06dddc647d936d8fce39b3ff3df5516a0dad"
+      }
+    },
+    "19B5052f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9352b5f10f104f59c3539671611241e8",
+        "key": "d7b36771f74b3a273672fddb54ff01616a784dc1896ae6bd9ee86341d8a5e70d"
+      },
+      "_meta": {
+        "page": "Keys:SkyBSeed 19B5052f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-06482/41AABAFA-4897-47C3-9EC7-9FAAC4D1368D/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5052f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b3fee896e62aa241823f040c0e670f3b",
+        "key": "57f83227ef757d004c29e81702920d31e332eab7f29b092d84bfaba8df48a909"
+      }
+    },
+    "19B5060d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b21764a76a74360130a3739a53ef7980",
+        "key": "2cced11252a4f314a6b4b12af805a13068487ee93f797ac8382894ad4fe61f44"
+      },
+      "_meta": {
+        "page": "Keys:SkyBSeed 19B5060d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-10467/F0C68998-E488-463B-A0CF-1B4138D633F0/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5060d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "01ebb1ecfd28b4d63db383399b796311",
+        "key": "5aaf72c66a0fbb25bfbb587306dfd07b9e3470763e9aefabe4048dc0af041826"
+      }
+    },
+    "19B5068a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "979bcb56390e17c620617d48feaa4c53",
+        "key": "9baddc136e60ed649438087bf04e0ed1dd0aeb0c5a40a289bead67609b578e62"
+      },
+      "_meta": {
+        "page": "Keys:SkyBSeed 19B5068a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-17492/7618DD60-C450-4D3E-94A5-F9FB04990E47/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.1_19B5068a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f8e609b3bb958a8891d099acbe112017",
+        "key": "2ca011fd20ff9a2b4d38174bd0f9f89bb6a64b818299f701059e482703428a91"
+      }
+    }
+  },
+  "15.2": {
+    "19C56": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a7895da89b995dbb8d79748854b078da",
+        "key": "58597e7b597530a888383ddd37ff1b067435609a81be84f0eee4f17f1dee7b3e"
+      },
+      "_meta": {
+        "page": "Keys:SkyC 19C56 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/071-92094/A217997A-8AAC-41CC-8E95-D161FCED432E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C56_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a9d9e90dc65398e25a87ec8261f11318",
+        "key": "333da2bddc09f511a5c74672a00e91ddf5268f1f9bef06e8754a820351a58942"
+      }
+    },
+    "19C5026i": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "233ab9ba5b5087af963d6ba0b8aee383",
+        "key": "0f4141b1ec9f5625747540b658ee15c85911c6eb7cf51bd9c50bd982310d3b2b"
+      },
+      "_meta": {
+        "page": "Keys:SkyCSeed 19C5026i (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-20375/F3D91F4B-2B9C-4EB5-8D46-E2945A3A3752/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5026i_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "4c584a756983e306577f17f93f3e92c3",
+        "key": "fa1b65cd36345c35aaed77e9aa01c7d08bf9c78572eac2ee8e7ceb6ab6b48e0e"
+      }
+    },
+    "19C5036e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "18bb99e486620420fcfebe7240e8fbc0",
+        "key": "74e7abddeca21f648ecb0848a291ad30e20feda5fea63f1e38d7406c5b51bf73"
+      },
+      "_meta": {
+        "page": "Keys:SkyCSeed 19C5036e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-28978/4636B7F5-8711-4488-94D2-10AC8CC038C2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5036e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7c4869b7ff5620cb22dac267e2c7f969",
+        "key": "c6757c17cd9dc4c04ae70fec834051916cc71c7d67ef4df6bd1a3294ad9f938e"
+      }
+    },
+    "19C5044b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "471169b95236232f922e0c9fa329e735",
+        "key": "576b14f8e277c33fe1ebc6cb6ee6b15bf0d51e3f09649a244fdc0122ea836663"
+      },
+      "_meta": {
+        "page": "Keys:SkyCSeed 19C5044b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-31744/7031E715-451E-4C98-B29D-0DD7AD9D8CB8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5044b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e398b493ea2dfbf7cb83a0b0ff15b522",
+        "key": "eda5e613e723fbe186ae8be4a1a83e266ee7cb4c11201022c88e7aef00b79b2e"
+      }
+    },
+    "19C5050b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "363abadc51059b9271eb47642415916f",
+        "key": "6e2b16dc6a5032d70f6c6366b485cf911a89cd932acd8b20104f4ea3c02e2fe0"
+      },
+      "_meta": {
+        "page": "Keys:SkyCSeed 19C5050b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FallSeed/fullrestores/002-40156/F1061780-C310-423C-8217-2E1F4704918A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2_19C5050b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "75ed6bc9017b64137cae9af2ab71164f",
+        "key": "63e53a1cbfcf832f5bd5e2b2398950edae310259320334c8e17a3950b68c0180"
+      }
+    }
+  },
+  "15.2.1": {
+    "19C63": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "dfff1890f8022efe369633738e241c3f",
+        "key": "374b6566ba2c135114a49c43713556e9b8cb38528f219de36b163a7310ef0ee8"
+      },
+      "_meta": {
+        "page": "Keys:SkyC 19C63 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2021FCSWinter/fullrestores/002-51451/19353786-8A2B-4A24-A780-7E4521B6F07B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.2.1_19C63_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cae366355f9f36b0eb41e51a27f07f93",
+        "key": "57e74fddf0d66339d564e96d2a35bafe2339c2efad183a415a256920610610d4"
+      }
+    }
+  },
+  "15.3": {
+    "19D49": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6cfe932a2a7220d660517ad08db13994",
+        "key": "8e0072685cea1c7be8d7570e4f057fe25f60a579288fd31556503c725b6f9e17"
+      },
+      "_meta": {
+        "page": "Keys:SkyD 19D49 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-55917/9300C2DB-1BBA-484E-BC82-DD43EE2A721E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D49_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "25788e15794e0dbca002b86aaefe9996",
+        "key": "ecb2b497eecb036bed4161ba3589db2fb6835dc1ee05acad149f5c00e51da14d"
+      }
+    },
+    "19D50": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6cfe932a2a7220d660517ad08db13994",
+        "key": "8e0072685cea1c7be8d7570e4f057fe25f60a579288fd31556503c725b6f9e17"
+      },
+      "_meta": {
+        "page": "Keys:SkyD 19D50 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-57695/F64E2C74-C18B-48B3-8BC2-FF0DB4E21301/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D50_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "25788e15794e0dbca002b86aaefe9996",
+        "key": "ecb2b497eecb036bed4161ba3589db2fb6835dc1ee05acad149f5c00e51da14d"
+      }
+    },
+    "19D5026g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7080ed656717bcb3b706cc9a70c8f99c",
+        "key": "6a9eeeea2cdd2233c7d2618b8b80084702bfba83b149706b9e1bb2af91f1b5b3"
+      },
+      "_meta": {
+        "page": "Keys:SkyDSeed 19D5026g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-44888/7AFEED3E-6F85-4730-80A5-6A758F48BBD5/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D5026g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "4804b3154532b8674d06dc9a09bcc352",
+        "key": "ca7e56b679ec204aa13ab0ddf195ab518c3d99545df27615017033fc61c26252"
+      }
+    },
+    "19D5040e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "94094b8d75d5152952f42c4dfafe2d02",
+        "key": "291215eb7962801d9b76b0641e813d8a4567edb0aca99de1de437850884fdbd8"
+      },
+      "_meta": {
+        "page": "Keys:SkyDSeed 19D5040e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-52674/0EB2B47D-00C0-41AF-B016-71E6FF0AE324/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3_19D5040e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "67a60953f3737987179816a07237de64",
+        "key": "cee829f41606be8ff41120ec9858a5e0fa7cf7c158fafad7934f61bf3b643401"
+      }
+    }
+  },
+  "15.3.1": {
+    "19D52": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e3196a596368296ef03780a8cde4662c",
+        "key": "8313dc4320dc442857f38b32e436458be0b884ce1890f1a98a729f3b43421c50"
+      },
+      "_meta": {
+        "page": "Keys:SkyD 19D52 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-64301/9F766C93-A8FE-4338-8B8C-420F700BF5A8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.3.1_19D52_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "59ed3c4f850faedb98a9fabbbbe00e34",
+        "key": "b78c5f21a0a7662dade3e49454be6744a3aa44f1b7fcc6305b5c654b9171d47d"
+      }
+    }
+  },
+  "15.4": {
+    "19E241": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "16a86b4454ab2e6e12e66731a8fc64f7",
+        "key": "f343316362cb1d4f02e216570bd3f01f984b2f43c9fcb1c23bcb765ea65633ff"
+      },
+      "_meta": {
+        "page": "Keys:SkyEcho 19E241 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/071-09912/70903831-EF2A-453E-8105-A78B6491E5A8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E241_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e00b95a6af25351ea52ebc887f470284",
+        "key": "6048e9cfa0e8dac351b51a474a24a256be48b18f1e5f679a3c04269156ca1022"
+      }
+    },
+    "19E5209h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b8388225fcebfbce72935bd72810c1f3",
+        "key": "9e24f2dae5641405351b5263fc3fbad8b1abc274af65f958826d1312483932cc"
+      },
+      "_meta": {
+        "page": "Keys:SkyEchoSeed 19E5209h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-59169/8C8BFE05-34BE-40AA-8B9D-6F0B83FCC2AE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5209h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d05e43018bbcce8777077a9690b6c757",
+        "key": "4056f84f1041c8fa1b705c0002e6db033e437fb00be0562be200af60a2b3e559"
+      }
+    },
+    "19E5219e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "acf6d27c9b37afd49a79728f118cd740",
+        "key": "7a849cf01b44f5a9ed42b53e13c180a875d1afdbcde2a8f9d8acd6e6eac268ee"
+      },
+      "_meta": {
+        "page": "Keys:SkyEchoSeed 19E5219e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-60309/6C253217-04EF-43F6-884B-4C68D8D87389/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5219e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f96b13eed349acf61800b2601aeea883",
+        "key": "927daecc2e4b0064ab5f21b11adda24ac6f871b540f05036a985d104a2df0364"
+      }
+    },
+    "19E5225g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "fd58d6cae0e2d31ba9115a7731448d34",
+        "key": "5836f0d2c7087dc6dfee99b36d032f9ee1ec82186c26e9392e12834f69ace307"
+      },
+      "_meta": {
+        "page": "Keys:SkyEchoSeed 19E5225g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-71197/BDD0D703-B0B6-47D9-80C3-2223AD3574D3/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5225g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "db7b57bad37255bc8367343692455ba7",
+        "key": "7f843e77e11376c6205f78fe9624c2a926028c872de2359a4f4cf3e050cfb958"
+      }
+    },
+    "19E5235a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d91b2e0602c192a03e7d84584a8bc795",
+        "key": "2e633a2341af6103be5c8ffc57ac865995de363e0f109a3135385e4294f8073a"
+      },
+      "_meta": {
+        "page": "Keys:SkyEchoSeed 19E5235a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74079/669E04A2-81EF-4F36-98A7-837ECF00B3DE/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5235a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "33ccaec88486930f7ee306d3932a0c1f",
+        "key": "14f29afbef2cdb23775269fc5aba1e08077647f9b12b0b278eaf0637786ecebc"
+      }
+    },
+    "19E5241a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "79f89410abb37f52005f79f08e95a712",
+        "key": "0e7d864158f10cf521441aba696d8516103adc63c4275e3836efe61bc7cd2c32"
+      },
+      "_meta": {
+        "page": "Keys:SkyEchoSeed 19E5241a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022WinterSeed/fullrestores/002-74973/978AF157-EF44-4DE5-A401-EDD72B83D649/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4_19E5241a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d4e80b611a656d863d8be40a7a3af038",
+        "key": "3d77eebca303313a87fd53617d1951d4031060d882f04efc39d66c0d0b88c3ad"
+      }
+    }
+  },
+  "15.4.1": {
+    "19E258": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8c3d0a19d347f6257a8bf0524b80db01",
+        "key": "4001b9310327cc3f235f77d76a467817e284b4275717461bb52df38198aaa14d"
+      },
+      "_meta": {
+        "page": "Keys:SkyEcho 19E258 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FCSWinter/fullrestores/002-80720/5C4F7152-B66F-49BD-9CD0-431F4E03A828/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.4.1_19E258_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3ebcf2efde109450a7c2d0f5f2fa6abf",
+        "key": "fba36ee7e9786375627b613006acd2c7e8e5b06c50c4d94615487a31c6aac660"
+      }
+    }
+  },
+  "15.5": {
+    "19F77": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "60f70c6389dd84384be5893d3d8b6323",
+        "key": "cc1bb1b49da99ade551b7f87f4e024f6c98600fffaf697cc55cd7d6924aa7f05"
+      },
+      "_meta": {
+        "page": "Keys:SkyF 19F77 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringFCS/fullrestores/012-07863/EE4F265F-A76E-4FDF-8139-2C09611CE03B/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F77_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e03394e823dd2a25ae9d908418145120",
+        "key": "3726c1f54314c7d757eb123f363393517f771ff3ed06ae9a4e4f89bedff8e7f6"
+      }
+    },
+    "19F5047e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c417dd9f5a89f93f4c2ad98749fc32ba",
+        "key": "839e4f5035064d7472d919f69206e8837059dde887a672bcc86704d6822175ab"
+      },
+      "_meta": {
+        "page": "Keys:SkyFSeed 19F5047e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-85780/AD5F6B44-7FA4-4172-B9E4-8DCD1BF42CF1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5047e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7f112db6d77ab394484c7f42e7bd2719",
+        "key": "cc36f7db77f4e25b6a24f305b3aa1e09614102a55deb989ec512d49182fa608f"
+      }
+    },
+    "19F5057e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "83cf7652fe1a275cf0488c07fbfbbdbd",
+        "key": "32103d930def6184253bf1b36e56511af54f355af2f9dfa3a98f94c764a04a75"
+      },
+      "_meta": {
+        "page": "Keys:SkyFSeed 19F5057e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-87476/A4B63AA0-B4B1-4D7E-8282-63F6AD74644A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5057e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c0c28ae12645acde91291c845fe00e27",
+        "key": "aa3388f4d34961ac88c5b0a7ef98fe627cba834fbc05d00d006935b58c74fa15"
+      }
+    },
+    "19F5062g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a05dc4775af04afcd5b95700f72694cf",
+        "key": "a8a4727ebfe5060cd299d7890fc20fae36818ee9a99ad63b6840907e8cd11812"
+      },
+      "_meta": {
+        "page": "Keys:SkyFSeed 19F5062g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-89790/DFB22F27-8360-45E1-A67E-A52AB5B27842/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5062g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "079cda288e1450f326fb8a2cc7640a65",
+        "key": "1611a42a56b46edab3842e2cd3ff4289104ccb0d074d701a34b4208986b0ee7a"
+      }
+    },
+    "19F5070b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9b42d74a8d2f2786b88ba85370497e43",
+        "key": "80094704298f100dde035674f171e335db80493bb40ee0ab3783d74b0f6beb7d"
+      },
+      "_meta": {
+        "page": "Keys:SkyFSeed 19F5070b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94676/2C5DA6F4-0697-4725-8EF8-C959EB3E1673/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.5_19F5070b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8b20be8074f09f886b0803164af75107",
+        "key": "acb48321077b74b35cd9f5951427d1b0476bc7c6880b5112c182c3f675bde65b"
+      }
+    }
+  },
+  "15.6": {
+    "19G69": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "5de18a24b9a9c2d31daf3336def966df",
+        "key": "675ef87192384bec4cd3ad6c497c818b1b628691e6e884ac97dd183ecbde38da"
+      },
+      "_meta": {
+        "page": "Keys:SkyG 19G69 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-40393/36DFCB64-76DF-4686-B9F2-C286D980E565/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G69_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "763e34bd6903e554534dbd083647c9d1",
+        "key": "ef81ff5b929a3929a4d792869390124aeb9ed75d940a0badb22714f4504c8a4e"
+      }
+    },
+    "19G71": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "5de18a24b9a9c2d31daf3336def966df",
+        "key": "675ef87192384bec4cd3ad6c497c818b1b628691e6e884ac97dd183ecbde38da"
+      },
+      "_meta": {
+        "page": "Keys:SkyG 19G71 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-41754/D7C9E6B1-286A-459B-BEAE-F7C382ADCE2A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G71_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "763e34bd6903e554534dbd083647c9d1",
+        "key": "ef81ff5b929a3929a4d792869390124aeb9ed75d940a0badb22714f4504c8a4e"
+      }
+    },
+    "19G5027e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d3c6ea80c4910cbbd872bbd988dc8d66",
+        "key": "c3cc2f66e653587558260af5c640e2c6066a873fc300420b002bbc1365932b36"
+      },
+      "_meta": {
+        "page": "Keys:SkyGSeed 19G5027e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/002-94052/65C359BC-06B9-49C3-87B1-8512330D57A2/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5027e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "899a240f323fddef822e770e7984b30d",
+        "key": "be80da70e834a72f604613717250a19cea82436d322f526a057165ac01bf8dff"
+      }
+    },
+    "19G5037d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e9e392e5a252f7a889e9aea3a3515a0f",
+        "key": "a102c8941c854fb89b2635331028cb2864d32dd2ea9b5b2059010a4a53b656d7"
+      },
+      "_meta": {
+        "page": "Keys:SkyGSeed 19G5037d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-10396/F97E4BB6-1B30-4DEA-B8A0-259F293B788E/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5037d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "01555142ce06ac80738d23b3bb2f9960",
+        "key": "95479e3d8c5a2277ec55ad96f1a593a53b9bbfb5e66868a235818dd6098c8df3"
+      }
+    },
+    "19G5046d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1241b1d2b4cd325c3c4e8d2bc46d6109",
+        "key": "99c6c3ef126cdf9ddd183543b28f275bbd2242a4bbe9fca8d493f82398d77055"
+      },
+      "_meta": {
+        "page": "Keys:SkyGSeed 19G5046d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-18033/F965F32D-058E-4CA1-93CF-FEB64A857A29/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5046d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0ccdadf7ae63860135c3b7c442c4c70d",
+        "key": "09962586554b19148dbf636bbd91a1ae6dd1e830d59fcf9426cff269d2b85a97"
+      }
+    },
+    "19G5056c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1df371da09fb39fda76c5c05cbb49b4d",
+        "key": "9a3b0c975cd0ca3c5526d177264416fe1922167a000a7ee1360cdfd93a6bd1cf"
+      },
+      "_meta": {
+        "page": "Keys:SkyGSeed 19G5056c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-33053/9F91AF9E-6B39-42B7-B15B-C643F03C2C96/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5056c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6d18c1c3e5418479c52793ad5259e19a",
+        "key": "477828e4f1e7f3cc14d835db414477a69972349939db31e8daf81b77e2676bd4"
+      }
+    },
+    "19G5063a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9e844c6c232711c42ddbbc55cf6402fd",
+        "key": "67750e7b664147f8c4a292f468b52c2f18c2c36252c69137011adb8bffbf4682"
+      },
+      "_meta": {
+        "page": "Keys:SkyGSeed 19G5063a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SpringSeed/fullrestores/012-36089/AB1DA475-2464-4025-A579-E86634DD9839/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6_19G5063a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "987738a79ad115313e82184890aceea9",
+        "key": "d695b6eb45340d8f736138ed670313e1977bdc39c8025570622df737ae8c3e49"
+      }
+    }
+  },
+  "15.6.1": {
+    "19G82": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1060ce6d0b8cebf61331aa3cd0c77c92",
+        "key": "21e6c93f7bca01b5c5c2e3eca14264ec7411ec64e79bb41d6e3b7fab9d09559e"
+      },
+      "_meta": {
+        "page": "Keys:SkyG 19G82 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerFCS/fullrestores/012-52967/DCE2CEF4-E428-4B8B-8A46-1C05E239E728/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.6.1_19G82_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7b70cf0ee608799653abd41831447340",
+        "key": "3ae8e93cb4754f9e682e2904c96b0c56562b86bf4364eceec7881c2510666cb3"
+      }
+    }
+  },
+  "15.7": {
+    "19H12": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9b006d7b718f509ca187c626a70aca7a",
+        "key": "c5398ef6ee118eedca015ed693607752641e2a31ba4c7016cf343ef05fe0ab6d"
+      },
+      "_meta": {
+        "page": "Keys:SkySecuritySydney 19H12 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-39115/DC104483-B40D-4B77-BA44-FE689BF9A8B1/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7_19H12_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0b75dedec43c7b9721b42a071e90bdb1",
+        "key": "001a55b1f8e0a87b420a634ec37146d124d0a2d11313a606a0f306e134da4573"
+      }
+    }
+  },
+  "15.7.1": {
+    "19H115": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2f62e6028db9e0fb1f25f4f1bc9f3237",
+        "key": "257700c6d786f772e451bcf0f42708bc4e03acb271b5f2f68b72893b1ec9eca4"
+      },
+      "_meta": {
+        "page": "Keys:SkySecuritySydneyB 19H115 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91078/C4CE2F3A-5F2A-4DF3-BA5A-648651991F9F/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7.1_19H115_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e3ea912f68ac317e0799b32565a30045",
+        "key": "6ed29773d3293c5694add9dfaf8809d0bb962371e6b6d4b9eb91560e1e3e201d"
+      }
+    },
+    "19H117": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1b6a25edaefd533378f67838b8714338",
+        "key": "fe43bdca858715641e0b2457c3a60c546fe2d4c75130502c5812b90b796698ef"
+      },
+      "_meta": {
+        "page": "Keys:SkySecuritySydneyB 19H117 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-95439/BA111C30-6FBB-4089-90E2-3E29C148B16A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_15.7.1_19H117_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e34c8560393e2c241ba079bac08c307c",
+        "key": "ab3212dc503b3f5d7fb251346423c6860a0337c131036d153fce6dcaf577560d"
+      }
+    }
+  },
+  "15.7.2": {
+    "19H218": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "56b08a0f3dcb62d0e8c449d1fa9783a7",
+        "key": "d8d008dbbb5b5cd0a444ecc6b39f7a4f3382ff007cf3bdf6bbb8baeac27b9c06"
+      },
+      "_meta": {
+        "page": "Keys:SkySecuritySydneyC 19H218 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/patches/012-91710/FF24EECC-A4AD-4A8E-8BB2-2883017CBB00/com_apple_MobileAsset_SoftwareUpdate/afcfcefd48dcc09888e57f0584049c848881b410.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c8f2ff1498029351e3469a100e2e9783",
+        "key": "75a68f24971d74128baa6d98062e0f99c11209ee148812bfdee9122b35fc797e"
+      }
+    }
+  },
+  "16.0": {
+    "20A362": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d913592da8ce4ce11f0d50cf06b3aa8b",
+        "key": "5af46485a216a20d96baf7a4cd5e3d432ba099755289c10632b2e62b62a6a4ce"
+      },
+      "_meta": {
+        "page": "Keys:Sydney 20A362 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-65557/BD005EFE-05FE-4BB6-9A25-063A5B4BD704/iPhone12,3,iPhone12,5_16.0_20A362_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a68157bbece89db8d83f0793339b83f2",
+        "key": "898eb1c1a1f937930445fd1936d31ad5b4c3c86f36d17d62525c7c445014a97a"
+      }
+    },
+    "20A5283p": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "af983005698c6f64880e3fea455ff88f",
+        "key": "6e2a89319bc68ca51d8e8c17ad393ab542b90ec05eb0ed93d1bad2d21a560c44"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5283p (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://developer.apple.com/services-account/download?path=/WWDC_2022/iOS_16_beta/iPhone123iPhone125_16.0_20A5283p_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9c8250981720d3ff5125df833f1efe9c",
+        "key": "824a1ad8a0ce1ecf295d1d8bb0846b24ceb7e41c1761a94708f3d2f06cb52a01"
+      }
+    },
+    "20A5303i": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b2ebe7c26ecc0511ac80c190a4f9305a",
+        "key": "181760725d852171e435c24844572c3a1d365e12a6289aa3285db6bfded7d844"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5303i (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-26218/014A4FD4-DD37-4202-B929-58CAD96E3306/iPhone12,3,iPhone12,5_16.0_20A5303i_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "176baa3231dca34e630ce8ebe37a45e3",
+        "key": "dee12c384b211400c069d2b7f3cc26fc92e5bb12e5739a529180e84027c5031e"
+      }
+    },
+    "20A5312g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "aa413b685c94fe68397d904a6d01d9ab",
+        "key": "f97e47496fb1b4ae268ef852fe8a883cc71f5c4cfae8d66157a8801fac8ebb9a"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5312g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-34261/60760399-6B7C-416A-9D9A-12D08A4F65EC/iPhone12,3,iPhone12,5_16.0_20A5312g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "43f754ef550dbfe668c415e1f27e7cd5",
+        "key": "ca703daa81907b1ccb682da5d9fb7fa608f907df9411539573f9e4780b2ed194"
+      }
+    },
+    "20A5312j": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "aa413b685c94fe68397d904a6d01d9ab",
+        "key": "f97e47496fb1b4ae268ef852fe8a883cc71f5c4cfae8d66157a8801fac8ebb9a"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5312j (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-40356/DBCFA146-9465-4A4C-8470-DAFF21181CB5/iPhone12,3,iPhone12,5_16.0_20A5312j_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "43f754ef550dbfe668c415e1f27e7cd5",
+        "key": "ca703daa81907b1ccb682da5d9fb7fa608f907df9411539573f9e4780b2ed194"
+      }
+    },
+    "20A5328h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "00afd96e585eadd7a8e29ce0f1599fad",
+        "key": "88e4487d6fffec545ba3d1b211f883dc8e63cc30f19db048de5e9db54a5819f5"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5328h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-45052/B6F48BC3-29F7-466A-9576-6E9E59AA046D/iPhone12,3,iPhone12,5_16.0_20A5328h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "757c594d9a181b1442813c2432458c4d",
+        "key": "32641ae7e72379da6b3ef16319605f76647e9de0d73f71fae981a4edde2f6dfd"
+      }
+    },
+    "20A5339d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "33e6874370ab783f2a0dd50355abad74",
+        "key": "603591bb2756a681e5ca96a36abf920a66139d48636a8b975298d8f8147b7a53"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5339d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-45914/4DFED6E6-5DDA-485B-8A0E-81F1CD4F8525/iPhone12,3,iPhone12,5_16.0_20A5339d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "501a460784d0ec5f409faf050517e4c6",
+        "key": "4dcc00373c60e1f51f0c701f7e4ba05dc53852920c24e3b1065c679b1f81ff20"
+      }
+    },
+    "20A5349b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c64935219ed25b21315f89df72eb2fe2",
+        "key": "0176b375870e40e429dda220ffdcdabd6532acf2487bb961c8013c6acc379864"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5349b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-53474/0A63EC04-335C-494C-A067-83522CDDEA19/iPhone12,3,iPhone12,5_16.0_20A5349b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "283f83e044edaa059bdd95d69a2cb79a",
+        "key": "34e7588bf93d9064b750deca40d3fbf5e82e3dec5986c357ac7a276568643560"
+      }
+    },
+    "20A5356a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "daf2f046e45e0ee7d65241a919b451d8",
+        "key": "9db79f56cb622d7bbdff1a780f39c7aea01a110527e0cff19f4b47d8915231c6"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5356a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-58103/BD704527-FD18-4426-88BA-A74AD070CE1D/iPhone12,3,iPhone12,5_16.0_20A5356a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f461c2ff43eaaf9efd82569d3350f08b",
+        "key": "8e75782a5bdf94aa27016c926b78b3c7ae6f04fbc7f920e90750fed2c1055f54"
+      }
+    },
+    "20A5358a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "daf2f046e45e0ee7d65241a919b451d8",
+        "key": "9db79f56cb622d7bbdff1a780f39c7aea01a110527e0cff19f4b47d8915231c6"
+      },
+      "_meta": {
+        "page": "Keys:SydneySeed 20A5358a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-61707/0D9B82E5-ED73-4F3A-A322-5454DA1AA1B6/iPhone12,3,iPhone12,5_16.0_20A5358a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f461c2ff43eaaf9efd82569d3350f08b",
+        "key": "8e75782a5bdf94aa27016c926b78b3c7ae6f04fbc7f920e90750fed2c1055f54"
+      }
+    }
+  },
+  "16.0.2": {
+    "20A380": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2d53b8fbfb25fb88f66d16a7609cebb5",
+        "key": "3fa6a6a2b5fcafc0a48b2b5c501f9150152464b8ef520696cc9e69cc7e35f93b"
+      },
+      "_meta": {
+        "page": "Keys:Sydney 20A380 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-72585/5126D65F-437A-47FD-9984-64FBEABE5E7B/iPhone12,3,iPhone12,5_16.0.2_20A380_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1237c8d7c6c4a5e17347f6598034c4f7",
+        "key": "744b7eed3af1fdadbc7fab10919b8c4b11991cbb874eff8fbb5bf8b550c63f7e"
+      }
+    }
+  },
+  "16.0.3": {
+    "20A392": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "61f39733fbc5a1145bfd0e282b62808c",
+        "key": "5e43bf7a7458897531468cc51550708a0a429c5c0189e0005e30e4d7ae031492"
+      },
+      "_meta": {
+        "page": "Keys:Sydney 20A392 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-73358/504D0C8F-19A8-47AF-A729-74831C6C9908/iPhone12,3,iPhone12,5_16.0.3_20A392_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "43bcddedc307e4ce60cac55e158e6bd9",
+        "key": "9c372fabb6dd264441bfce89d218f24819f18b91828c9d314646a71bc76cd1ee"
+      }
+    }
+  },
+  "16.1.1": {
+    "20B101": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "4e7dc532539ca375c46f7e8d62fc1be8",
+        "key": "369e1a90cfbdcbc5fd92edfadee9aca90921fd725161af57d396a716a31c8dc9"
+      },
+      "_meta": {
+        "page": "Keys:SydneyB 20B101 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-97065/FE1905DD-F19F-4BB8-9039-BBE28DC4BAD8/iPhone12,3,iPhone12,5_16.1.1_20B101_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "617728b556c8ce64c340ee5cc8e0c29f",
+        "key": "b18ecd919d4e20fb240575131580e4be0f0eab2384c30057cb007871aeb485f6"
+      }
+    }
+  },
+  "16.1.2": {
+    "20B110": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "757fc78b4263f99d0e757ec2f8bb0455",
+        "key": "aa95ad557b36459f2a909ee78da698bb621570c6817fe4bdd346dc3bf4e208d2"
+      },
+      "_meta": {
+        "page": "Keys:SydneyB 20B110 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-11720/C9C0FA05-23B2-4BE9-BE35-BB7F91565B61/iPhone12,3,iPhone12,5_16.1.2_20B110_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e68b87fa849eb2f69b27d8fc39e7e4ca",
+        "key": "88a3ef7dc165cd556b8de5883cf0f6c2623aa069756ecba6cc933898be01f948"
+      }
+    }
+  },
+  "16.1": {
+    "20B79": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2c928f9a79be60c723d7b0132016bacc",
+        "key": "b87f4d509326444c1b88de2b58608a8a19ded9d31232123fdfc49fe6a4e03fed"
+      },
+      "_meta": {
+        "page": "Keys:SydneyB 20B79 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-91046/92AE3145-03E5-43CD-B820-68BC73B0D074/iPhone12,3,iPhone12,5_16.1_20B79_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cd1357a34dbcf4f4ba36cd79aa2c8596",
+        "key": "c39cd9d97c99e8fdce99d177a6d99a9c2e44834712bf8d13fa13fa517a86b07b"
+      }
+    },
+    "20B82": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2c928f9a79be60c723d7b0132016bacc",
+        "key": "b87f4d509326444c1b88de2b58608a8a19ded9d31232123fdfc49fe6a4e03fed"
+      },
+      "_meta": {
+        "page": "Keys:SydneyB 20B82 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-92973/811E09F1-2565-4C2C-88C3-8491B37D50DB/iPhone12,3,iPhone12,5_16.1_20B82_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cd1357a34dbcf4f4ba36cd79aa2c8596",
+        "key": "c39cd9d97c99e8fdce99d177a6d99a9c2e44834712bf8d13fa13fa517a86b07b"
+      }
+    },
+    "20B5045d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "524a819b8d067803dba6d6be8ff103e5",
+        "key": "181b27950046d111ab2708b7f876b63e3d1d9660c7fe9054c96a9d2d0257b1c9"
+      },
+      "_meta": {
+        "page": "Keys:SydneyBSeed 20B5045d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-66068/827144F4-9E39-4289-8313-AC381179D851/iPhone12,3,iPhone12,5_16.1_20B5045d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "22fc647c154e124d3073bbd7dc2b3f99",
+        "key": "ef465b58ed3eac748ee552519f55d3f5dc317c86635a9dbac1b4c9960197bc27"
+      }
+    },
+    "20B5050f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b84e12c1f0cc842b5fc87ba1632c72e1",
+        "key": "83cc1fe0e2d52d3f6684118356750bc397184b4128c7a4eae3a3fe569650617d"
+      },
+      "_meta": {
+        "page": "Keys:SydneyBSeed 20B5050f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-71542/7DE66CB2-8BBB-4B5E-8CDA-E81617468F87/iPhone12,3,iPhone12,5_16.1_20B5050f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9bddda9c0aa16fec78130c8f19703856",
+        "key": "f1db85f5a6682d2cb76643e8e0799fdf14140901f362a7049d64d1601505e473"
+      }
+    },
+    "20B5056e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "58db4911bf8cd3d85fd73d30782598c7",
+        "key": "d9d4513086c452ac79ee8a0ad2453f5a59792cc6e10f3b1cbfa81eeabda225db"
+      },
+      "_meta": {
+        "page": "Keys:SydneyBSeed 20B5056e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-72262/E5249088-BBB0-406A-A696-3764180BA341/iPhone12,3,iPhone12,5_16.1_20B5056e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9ba37cc239e45ad165aecb37d74726fa",
+        "key": "53011981402ae3750527e6b7221294239ae6ebe2af5d39e596ee61e9684c0f80"
+      }
+    },
+    "20B5064c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ff0907fff15f0664429ec95225f2d574",
+        "key": "c9ec72679958ac6a7d6f4add6697310ae54a02bf188f83d0ae8a25f6facf1171"
+      },
+      "_meta": {
+        "page": "Keys:SydneyBSeed 20B5064c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-77231/D159436F-C77E-4C13-AA9B-457F6582125D/iPhone12,3,iPhone12,5_16.1_20B5064c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "63675cf498dd221e6ede9f19df0122d3",
+        "key": "92358fdf43b0e3c7e1efc1648b0947bc908305f40587de8da58c218d4b4c3aff"
+      }
+    },
+    "20B5072b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "70aae336832260a37a9e709a1bb803ae",
+        "key": "2431e9e2a50eb8b6316c5bc043e41fd545be534c47f7b0dd38b4ad7f6c46472d"
+      },
+      "_meta": {
+        "page": "Keys:SydneyBSeed 20B5072b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022SummerSeed/fullrestores/012-89258/B91B74CF-9088-4008-BF7B-632AFFA1996D/iPhone12,3,iPhone12,5_16.1_20B5072b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "37a6551a44356dc0fe28a0c7a3837169",
+        "key": "09ea07c9285ea02f27b4a8cfd1270594a704caee77d347ceaf8b66a1b4252306"
+      }
+    }
+  },
+  "16.2": {
+    "20C65": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "92b4950d62b17c307b34d6ecfc4d7c39",
+        "key": "dd6ceffba78b61ee0ad4470b28a811e1cb2d5dd0d583ab38a1025d499a007ef8"
+      },
+      "_meta": {
+        "page": "Keys:SydneyC 20C65 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallFCS/fullrestores/032-13976/0817FCCE-5BDB-43E2-9F0D-259ED0F782D4/iPhone12,3,iPhone12,5_16.2_20C65_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "04dcec69942a3ba7e60fbda9ece643e1",
+        "key": "f1feb5f3a55d9992157c20342ccee8ff8885f3586330fe7edb7932202a62097f"
+      }
+    },
+    "20C5032e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a53438d13f9fc1b6f4090d12d7d2a570",
+        "key": "0f9c9c77f5289acdd00bd099cea52d6ebb962b950480068120e080ef0d7a1d35"
+      },
+      "_meta": {
+        "page": "Keys:SydneyCSeed 20C5032e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-80975/E9DF4D55-3EED-4F35-BD10-52E4BE3CDE0A/iPhone12,3,iPhone12,5_16.2_20C5032e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "314d8988212f7e0b35c958b4300b7dd1",
+        "key": "c4cfc234218f89a18f0939fa971f942b1fdad30f0a4c0da82805ede7fe171986"
+      }
+    },
+    "20C5043e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0f9a75aa2cd38c2c609676e1b86a1e22",
+        "key": "f18fb9e49cf08b81591b2ef7c346be67d0c44b17fffe5dc712561e955dca491e"
+      },
+      "_meta": {
+        "page": "Keys:SydneyCSeed 20C5043e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/012-97810/BADAA535-2396-41E4-B130-FE275E0F84A5/iPhone12,3,iPhone12,5_16.2_20C5043e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a1a77c9148f2d1352c1deabef10c677f",
+        "key": "f4c8e80b708ebe480be256a572d89e8f00531b66e092c8721c949be9873a1241"
+      }
+    },
+    "20C5049e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "80dd25fe7f6467d01b6223d01eaf8281",
+        "key": "c730b90aa24b7a279f6fce55ea5d611f30a231f88a953aefc1cdb3495c116020"
+      },
+      "_meta": {
+        "page": "Keys:SydneyCSeed 20C5049e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-06751/925DDD0D-6107-4F57-B2AC-4111E73C8295/iPhone12,3,iPhone12,5_16.2_20C5049e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "dacac78052d9f8fa98a7fa80f7791c14",
+        "key": "b73a69d1d255803e481f7423eeac299592531887fa2c2d013edc7cd34e18bfe8"
+      }
+    },
+    "20C5058d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a7a15d28da275ae4e97e2f1b43452cb0",
+        "key": "3e8383d3184b87353062cba96c88bf82c1ffda724a7101f93d92e8ee85fc0cb7"
+      },
+      "_meta": {
+        "page": "Keys:SydneyCSeed 20C5058d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2022FallSeed/fullrestores/032-12253/C18E873C-8E4C-490C-9E3E-FCA0AE026C5E/iPhone12,3,iPhone12,5_16.2_20C5058d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "5ea76a83aab661857b25e83cad03c3ca",
+        "key": "5b6c4243c8d8e0b2ba0d3a06a89f626f09d2a0b187b27cc8dd3714a9d0ca3f6d"
+      }
+    }
+  },
+  "16.3": {
+    "20D47": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "f6b959e99a4b81038c72599098dc348f",
+        "key": "32bddb41468f37dd79c74b8a20fc4597c298cc198274ce05db17edaf8ef1d93c"
+      },
+      "_meta": {
+        "page": "Keys:SydneyD 20D47 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-35785/3353DAC3-BA91-404C-B790-48CE95130DFB/iPhone12,3,iPhone12,5_16.3_20D47_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "958da1764f1add2371752b6cab1b1b4f",
+        "key": "1cdd50c25f5f0749ca63740456f248b12cd7f2fb46f4cf94c702eecbbe69b259"
+      }
+    },
+    "20D5024e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "758c1793d9045442a34d9b216cd756fc",
+        "key": "80f77cc0fda7fac34b4f2e9a36eea85b38c9e4d59b4ca0f3afc0452061c634b4"
+      },
+      "_meta": {
+        "page": "Keys:SydneyDSeed 20D5024e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-15702/FF41646D-BFBB-4830-B35A-17A78ED16878/iPhone12,3,iPhone12,5_16.3_20D5024e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "9434050c1b40e13fbe33fb50cb5ebd98",
+        "key": "5aa560fbac7743845192257e3fabf579f0a1db2cf6e109c4c93fe158779d55ef"
+      }
+    },
+    "20D5035i": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6351e53255da77108ca07e0c9b3a893d",
+        "key": "35ae583d48da86732292bdad286b6997d34e04055ec325a52e0ddd81074ad478"
+      },
+      "_meta": {
+        "page": "Keys:SydneyDSeed 20D5035i (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-33293/DE2DBB37-FC2E-44D3-A9AB-B2B361B83E48/iPhone12,3,iPhone12,5_16.3_20D5035i_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7f7a9de29848eaf5e69aae147f3f589c",
+        "key": "757321b2a308595d9842eb087bfd3a4869d4cc080ca141539919795cef77f744"
+      }
+    }
+  },
+  "16.3.1": {
+    "20D67": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1ec6d375169ce0a5a596c609c1cc85c6",
+        "key": "110ffd688744ac29aeb2473610d57052f160d2e72090b5dbfd6497ef20446260"
+      },
+      "_meta": {
+        "page": "Keys:SydneyD 20D67 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterFCS/fullrestores/032-49417/8EEFC4A7-C38E-4F58-BBF5-159C2E7849C5/iPhone12,3,iPhone12,5_16.3.1_20D67_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "26414c242be6fdcfdb0494478cd1dfe6",
+        "key": "4d2d7315b6947c16565e366f6c5751c568bab4410cd43d6cf07e95dcd7da5cff"
+      }
+    }
+  },
+  "16.4": {
+    "20E246": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0b6dc18a5c28224ffc21083dc7cedef8",
+        "key": "56bf190440a4daa81bc1a9ec29a20169cd437e1f4ddd7c47ecac71e900572692"
+      },
+      "_meta": {
+        "page": "Keys:SydneyE 20E246 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-66078/935425FD-A2F4-420B-AD82-70BE3108AAE1/iPhone12,3,iPhone12,5_16.4_20E246_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "93fe6d8a0354c2884a58e235e3871a5e",
+        "key": "50b62bf0754a335f25aac6abaab2fd32c02a5f822ce959c77c5db9cd371321c5"
+      }
+    },
+    "20E247": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "0b6dc18a5c28224ffc21083dc7cedef8",
+        "key": "56bf190440a4daa81bc1a9ec29a20169cd437e1f4ddd7c47ecac71e900572692"
+      },
+      "_meta": {
+        "page": "Keys:SydneyE 20E247 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-68595/CAB5C1E0-E5A2-49A9-AB9F-936B976FF218/iPhone12,3,iPhone12,5_16.4_20E247_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "93fe6d8a0354c2884a58e235e3871a5e",
+        "key": "50b62bf0754a335f25aac6abaab2fd32c02a5f822ce959c77c5db9cd371321c5"
+      }
+    },
+    "20E5212f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "c2b632766d0cefe004ea08a47a53592f",
+        "key": "67f510b4348dfe0cb046ee73a61ae965d050dfa888481e34170aaedb4377b8c6"
+      },
+      "_meta": {
+        "page": "Keys:SydneyESeed 20E5212f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-51621/1BE7BB65-B354-43B8-B731-EA6083CA0537/iPhone12,3,iPhone12,5_16.4_20E5212f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f1885154c737de57aeae6ae65ba0167b",
+        "key": "604643f93a17a378eaf5817e5b1946d59dcfa46ea409af1a0ecbaaa76465b3fe"
+      }
+    },
+    "20E5223e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1df3e90d0ed06c150425dd1ff318fe93",
+        "key": "618dbb5f4bed3765b9c23b76800a7d4b5cae5ee3e1a04e86a91d5c6bf98dfd3b"
+      },
+      "_meta": {
+        "page": "Keys:SydneyESeed 20E5223e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-54526/294C5119-4B71-428C-997B-5B81BD8B2F1B/iPhone12,3,iPhone12,5_16.4_20E5223e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "7eb4a4ec1b27cba3dd1fa562c0df1234",
+        "key": "089cdb539b463365672afa49acdd907590163483652dc7876ac084b91b47dd45"
+      }
+    },
+    "20E5229e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ab1eb754910e5f1684df63ef272ec932",
+        "key": "3bac7750707e8bbe39e409691370dc8a9745b2cf7cddbaab1bf5c59492bdf568"
+      },
+      "_meta": {
+        "page": "Keys:SydneyESeed 20E5229e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-57528/E40A7851-9F92-42AE-B1E9-3BC41208D518/iPhone12,3,iPhone12,5_16.4_20E5229e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "595a120ae9a0090d00f4da491669b78a",
+        "key": "8fb1cacfde998b55f7dbf140ce87ba2c9ddecbcc7c328a667a8cb61ce57d15b7"
+      }
+    },
+    "20E5239b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "e2627e1cbd044184b0f60f9f089179c4",
+        "key": "ad00b275ea12fbbcc841e16944cfbda2638cd59fea0b8da88a65ab6a89dcbeea"
+      },
+      "_meta": {
+        "page": "Keys:SydneyESeed 20E5239b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023WinterSeed/fullrestores/032-63464/546D5105-B5DC-4DE5-866F-D97501EDE35B/iPhone12,3,iPhone12,5_16.4_20E5239b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b3d6cc1d2d09ad6d80dc60252b3f94f5",
+        "key": "67a52692722343821a5383c3c5174d577f8f1e4565d045fed2ac49833a8994d6"
+      }
+    }
+  },
+  "16.4.1": {
+    "20E252": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "52ebe05e17dfc89a4154ef317568055c",
+        "key": "147aa09adcba9bcb3bc5f9fffc81701fd25e7f6bd6ced37eaae3971e1b6faafd"
+      },
+      "_meta": {
+        "page": "Keys:SydneyE 20E252 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-71272/890AD89E-EB43-475A-865C-EE556A0E5A18/iPhone12,3,iPhone12,5_16.4.1_20E252_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "1679f787955742908eeeb257e2469745",
+        "key": "61c9aaed4c9f21180a61770daca469161b6c5a9102e1989ea3662f6248f2e6ba"
+      }
+    }
+  },
+  "16.5": {
+    "20F65": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "eff93a75ca4b9651fea03e62990948b1",
+        "key": "f98096a1ebd0bd7178042baf7be2237a20a18bcc0be72728046debe1e02c3ad3"
+      },
+      "_meta": {
+        "page": "Keys:SydneyF 20F65 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-38995/8EA561FF-EA4D-46EA-8889-1939CDAC1D29/iPhone12,3,iPhone12,5_16.5_20F65_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "61e3c7adc4640eba0790fc06931ea4e3",
+        "key": "bbb9197b26e91b55153d04ff92b3efb13de4691fde34586c3fc02af854666372"
+      }
+    },
+    "20F66": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "eff93a75ca4b9651fea03e62990948b1",
+        "key": "f98096a1ebd0bd7178042baf7be2237a20a18bcc0be72728046debe1e02c3ad3"
+      },
+      "_meta": {
+        "page": "Keys:SydneyF 20F66 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/032-85590/AD259FF2-B2EA-4774-B4F3-C65C0DEA6D76/iPhone12,3,iPhone12,5_16.5_20F66_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "61e3c7adc4640eba0790fc06931ea4e3",
+        "key": "bbb9197b26e91b55153d04ff92b3efb13de4691fde34586c3fc02af854666372"
+      }
+    },
+    "20F5028e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "2b8b8129912aa6c67252f75ad715e9e9",
+        "key": "b707003129d35ae54f33d34f8da488137bcb492755657dc4206790ea6ce07cad"
+      },
+      "_meta": {
+        "page": "Keys:SydneyFSeed 20F5028e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-59097/4EBA059D-518C-41D8-B735-D35CB6615922/iPhone12,3,iPhone12,5_16.5_20F5028e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e16b1f74596e40f058174712c3e67bf8",
+        "key": "1165ff21edcb967494d7a6bef7a2370cbacf3eddbe72bf6565afbc91f1c8f57c"
+      }
+    },
+    "20F5039e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "28158d41ed550257fc08ad8b09738158",
+        "key": "df7a606a854dfe232f0c5e8f3678026062c102f3ee0a6c660d532ddc9cd136c6"
+      },
+      "_meta": {
+        "page": "Keys:SydneyFSeed 20F5039e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-70863/A0F72B5E-8EBC-48F1-952A-6BBDA0934E8E/iPhone12,3,iPhone12,5_16.5_20F5039e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6960be02478a59d8627a37da5312d01b",
+        "key": "216a444c303c045acdc08916e24de8506f42563a8da1332ff6f26cb5da3f785e"
+      }
+    },
+    "20F5050f": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3ad9c15cef7853cf63556f16abd802fc",
+        "key": "7bc394dad5ca71bca381462e7d2dc837bcc137c1e682f61ccdbcd4e0b43511e1"
+      },
+      "_meta": {
+        "page": "Keys:SydneyFSeed 20F5050f (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79042/C570EF59-632A-40EE-92BC-4DCF5B26ED54/iPhone12,3,iPhone12,5_16.5_20F5050f_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6dd39917cb2e16e8b7ad97464ba1d8e5",
+        "key": "e0795e9f2f41cc15bdc3763f15d2c6898d652edead87ec2e314269f07d96cb92"
+      }
+    },
+    "20F5059a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "a15f1fb221cabd0f2ccb9484bc5e6218",
+        "key": "112d5e792eb2d164ad09d218be600f2d2b80bbea5ca49a54a8fbab28a25776df"
+      },
+      "_meta": {
+        "page": "Keys:SydneyFSeed 20F5059a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-79502/B9E8BCE7-01C1-4106-8393-435F92D8B4C9/iPhone12,3,iPhone12,5_16.5_20F5059a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3622264b3fd154a611a62ad57abeca98",
+        "key": "10f95197b969df63a7074648fbf18a7af79aa3e4e46fde028801cebb4009367b"
+      }
+    }
+  },
+  "16.5.1": {
+    "20F75": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "271aea07a66f72672db077ed02bffd17",
+        "key": "cfa3ceb5bc1384748b40222940f7003adfe4aa3f976da50023cb0ca68fd654e2"
+      },
+      "_meta": {
+        "page": "Keys:SydneyF 20F75 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringFCS/fullrestores/042-02260/7B06F2CF-54B1-4610-A432-53AD0D6A80B3/iPhone12,3,iPhone12,5_16.5.1_20F75_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "914bb33ca5f0aa851b8e4f1f968934d5",
+        "key": "533a4c20d06f213a0edafef4332c56a3f7a640892c0e0f9558eb4d0c91e501ca"
+      }
+    }
+  },
+  "16.6": {
+    "20G75": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "057b9a59852f47a51e231e247ea2929f",
+        "key": "52d5dce929be01c30d7f88d684a1739463294bbc2707835ee9a93d4110a8fd92"
+      },
+      "_meta": {
+        "page": "Keys:SydneyG 20G75 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-17386/97372F0C-C9BB-4BBC-B460-7D09EF44FC08/iPhone12,3,iPhone12,5_16.6_20G75_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "67d2d5d177afe87510931ed94f69759d",
+        "key": "bb28b737a7f16797b359f85aa4890c6b0386015a1686443cf8d5d02e9a8f8c3b"
+      }
+    },
+    "20G5026e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "80101ec9b96cc55c1136343d8a019367",
+        "key": "854587872c5b7b974b2db0da9b39ad544555257b3bcee303dfa336bcb1ba6f80"
+      },
+      "_meta": {
+        "page": "Keys:SydneyGSeed 20G5026e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-86126/94765B70-D598-440E-A803-AA96BCAC6DBF/iPhone12,3,iPhone12,5_16.6_20G5026e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "30f2066807aa0a2deb9edf26fbdfe0ed",
+        "key": "e26b04ac829c65b633de82cc34d211734b3288c93d93037fcaf29c2292d44a91"
+      }
+    },
+    "20G5037d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "32cbd64d672bbda63ef21ae4b7c9611a",
+        "key": "132a96991af3e9e657f292d33cbf3917c9139e6395c424da1387300d078fa0dc"
+      },
+      "_meta": {
+        "page": "Keys:SydneyGSeed 20G5037d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-88535/27E6B809-03FD-40F7-B331-566EB9795A52/iPhone12,3,iPhone12,5_16.6_20G5037d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "710d3937b5ea9e24e6f766fd67e03e06",
+        "key": "af63fe3864c0969bbd287324bc27863f18964c4c0a46287dcbbf6453000a88c1"
+      }
+    },
+    "20G5047d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "62a4efa31917fb09c829da5f2e74f2ab",
+        "key": "f73c5452ea8a80b25505227af8d9abdb188ae2da5c085c8d5d6d40905415797d"
+      },
+      "_meta": {
+        "page": "Keys:SydneyGSeed 20G5047d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/032-93475/974802E6-9868-48FF-9C15-4258BBD66370/iPhone12,3,iPhone12,5_16.6_20G5047d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ee47e0fa26f3b9ab6d9cbc32e5a45798",
+        "key": "37255677f86ecbe87850485bb9eed790fb0eb5bc4f59e813dbd80f944bc851be"
+      }
+    },
+    "20G5058d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "f0bd17574e42aa597740c74fb0f123bd",
+        "key": "e4fef0963dbbca927cddae2cf72cf0431074c01872816828c04f417e061b4c56"
+      },
+      "_meta": {
+        "page": "Keys:SydneyGSeed 20G5058d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-03300/5E319EBA-7DD9-4DEA-A68B-525F75CA6DC8/iPhone12,3,iPhone12,5_16.6_20G5058d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "97f127177a09b94b01312cd2b4d09998",
+        "key": "dcb0145288ca1e02d2066f8aa74c0bfa7ac287e85dc14bd61976ecc4ee3eae86"
+      }
+    },
+    "20G5070a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cdde1ea932587de41c6390646952e2db",
+        "key": "d615051deaf0047e0e2d8ba4f78bd7b1b53113c939f1de83d8700d829fec614e"
+      },
+      "_meta": {
+        "page": "Keys:SydneyGSeed 20G5070a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SpringSeed/fullrestores/042-09629/DB928EA9-A843-4111-986E-7B9B8BAFE687/iPhone12,3,iPhone12,5_16.6_20G5070a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "ea881757652469ac12534ab733b51ef2",
+        "key": "26dbc84023eb897040b6c19b818ab1f7433ba1de57c91397540b67d236b5315d"
+      }
+    }
+  },
+  "16.6.1": {
+    "20G81": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "6d6dd05a4f665bf4130da55cbe6b3334",
+        "key": "9c46630e50a3137ad81baddc2b88c0df412549a78a24c0bd1accb41dacd47cf4"
+      },
+      "_meta": {
+        "page": "Keys:SydneyG 20G81 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023SummerFCS/fullrestores/042-44509/96D12947-B55B-44BB-BFA7-9231902A4A2B/iPhone12,3,iPhone12,5_16.6.1_20G81_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6d6d6161092c87d9cda05880842bc824",
+        "key": "44700dff4fa5be71bc2c912e9568b92ae86703fe3447f08b4dbe42b9e79c79b6"
+      }
+    }
+  },
+  "16.7": {
+    "20H18": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "50ee408c4a61c15ccab2e130f9a72758",
+        "key": "5d1c2603254140859fedf8264834799a5c5da40f96eac5b569fc7f82b333feb2"
+      },
+      "_meta": {
+        "page": "Keys:SydneySecurityDawn 20H18 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/patches/042-15143/3C25F1E9-0C18-4BE1-9F2E-882D024E839E/com_apple_MobileAsset_SoftwareUpdate/c13d0c209cecb1a55c6ae046d56f1064b6d71fae.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "a095e30276ebd5fb58cf45517b91c1dd",
+        "key": "f4f8f1f73dd803d8f935e8122e7b0b89719c74a0fd9b7340a57f892317883190"
+      }
+    },
+    "20H19": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "9f5ff9a8bccac25c8cc38b6e573d0d3e",
+        "key": "974321a8485aec62f28f3f4c412a9eeb1e0f0a37dbe986b731b4292666ba9555"
+      },
+      "_meta": {
+        "page": "Keys:SydneySecurityDawn 20H19 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/patches/042-55986/28B24F33-0F0C-48B0-9F49-A7EA79CBAE6D/com_apple_MobileAsset_SoftwareUpdate/450d04c840a2a1c9ee1fc93c2dffeb6474789944.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d94b06386efc9e0106afc142f88e8e60",
+        "key": "509651727d1c1823215a691af65867ad7679f1732a42bf9c25f0b34749a84bce"
+      }
+    }
+  },
+  "16.7.1": {
+    "20H30": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "094ae597e3c570f9656fef687bb72ce7",
+        "key": "279e0dbdf4910997e29de984db7208b15e4506dd6e3be9887c3dbf70dfefb1c2"
+      },
+      "_meta": {
+        "page": "Keys:SydneySecurityDawn 20H30 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/patches/042-78304/949D9845-E55F-4BE4-B1CC-D2BE47A5D121/com_apple_MobileAsset_SoftwareUpdate/d997c9cd25d29ea9daddd2e50fb0080ccf39a4b7.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e94527b8db0dac1805e5767618b526c1",
+        "key": "b03b993a8777ffaea8d1cfb5f605ca8a54d240a291607394d7b4dd958b05eb69"
+      }
+    }
+  },
+  "16.7.2": {
+    "20H115": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "99d4608814efa8347b9bf02dcd873520",
+        "key": "fb19a64e2c34e3b00e73c1de44003d2a334bb71423c564fea0a8eacb62e3ec0a"
+      },
+      "_meta": {
+        "page": "Keys:SydneySecurityDawnB 20H115 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2023FallFCS/patches/042-80056/4EAB7FAD-E411-49E6-93D1-9CEB07B7037A/com_apple_MobileAsset_SoftwareUpdate/ce287ef840aea24a3c0e07fccdc0a7a14a6e3b16.zip"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f36152d240a80b7876224e93b6519a49",
+        "key": "98475729a9910e8950367fcda11b2206635b1f152a65c2b3d43d22d0475dff27"
+      }
+    }
+  },
+  "13.1": {
+    "17A844": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "437820cf0a70205d51588bf8f87374e0",
+        "key": "1586499792daa67c7b2798bfa4687714c21a560a0075a9b240ed421cced3a2f0"
+      },
+      "_meta": {
+        "page": "Keys:Yukon 17A844 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/041-48487/DCD90044-D986-11E9-9F58-8A20DCDBD6A3/iPhone12,3,iPhone12,5_13.1_17A844_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "33cd279dedb6bef7f5531a020a138245",
+        "key": "0d2fd2f05b93f39e719e25cee5f4cd89e37d025e8a2b09040558af13e4d7b9ec"
+      }
+    },
+    "17A5844b": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "938e69017212384ef4ec3bd79356c70f",
+        "key": "a232c0738f3ac2c6051a507f96f3a9f227efdfb4b44de1e3ed8aa40fa4396378"
+      },
+      "_meta": {
+        "page": "Keys:YukonSeed 17A5844b (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019SummerSeed/fullrestores/061-18138/FD208352-DA1E-11E9-B1BA-D839301CD3DF/iPhone12,3,iPhone12,5_13.1_17A5844b_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8bd7b0e911e01aa67a73221522da525e",
+        "key": "468119d28c805c2d484d4e32bc967f8294666900542b7df715eafe88241db502"
+      }
+    }
+  },
+  "13.1.1": {
+    "17A854": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "437820cf0a70205d51588bf8f87374e0",
+        "key": "1586499792daa67c7b2798bfa4687714c21a560a0075a9b240ed421cced3a2f0"
+      },
+      "_meta": {
+        "page": "Keys:Yukon 17A854 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-18481/E8EF5E4E-DED8-11E9-8CD7-C959FA21F608/iPhone12,3,iPhone12,5_13.1.1_17A854_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "33cd279dedb6bef7f5531a020a138245",
+        "key": "0d2fd2f05b93f39e719e25cee5f4cd89e37d025e8a2b09040558af13e4d7b9ec"
+      }
+    }
+  },
+  "13.1.2": {
+    "17A860": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "437820cf0a70205d51588bf8f87374e0",
+        "key": "1586499792daa67c7b2798bfa4687714c21a560a0075a9b240ed421cced3a2f0"
+      },
+      "_meta": {
+        "page": "Keys:Yukon 17A860 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-22583/374D6F4A-E18B-11E9-AB82-A16496A9EC6E/iPhone12,3,iPhone12,5_13.1.2_17A860_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "33cd279dedb6bef7f5531a020a138245",
+        "key": "0d2fd2f05b93f39e719e25cee5f4cd89e37d025e8a2b09040558af13e4d7b9ec"
+      }
+    }
+  },
+  "13.1.3": {
+    "17A878": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d0062207a060d7547150a0e0bc58808e",
+        "key": "4a08ce75417fa7eeb0f6e0b0ed0193bc5ef4c16417ebd1df03124ee40bafb032"
+      },
+      "_meta": {
+        "page": "Keys:Yukon 17A878 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-30570/29F1A8AE-EB7A-11E9-B694-B010329334FA/iPhone12,3,iPhone12,5_13.1.3_17A878_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "80ad08d668b7e1241acc3c02f4a538bf",
+        "key": "fca6b21b0f50795fe0691e1e513cbb8ca4e972324d15d51ed3d8ef5dabcebe56"
+      }
+    }
+  },
+  "13.2.2": {
+    "17B102": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "af837e161b4a22aa8672a4f700a3a7f6",
+        "key": "407c91aee677c96e3a1cb82a434916df3f234e6c9493efce73bb7c1c415e812d"
+      },
+      "_meta": {
+        "page": "Keys:YukonB 17B102 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-45295/8C6494A6-FEB7-11E9-82E6-93C8F9486245/iPhone12,3,iPhone12,5_13.2.2_17B102_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c885d9cfb8c4082a07110a6c9f9cbe18",
+        "key": "825cbf7a9ae32505b95d064212c3854671a1aa50d220582b6e7dce5882f14b42"
+      }
+    }
+  },
+  "13.2.3": {
+    "17B111": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "af837e161b4a22aa8672a4f700a3a7f6",
+        "key": "407c91aee677c96e3a1cb82a434916df3f234e6c9493efce73bb7c1c415e812d"
+      },
+      "_meta": {
+        "page": "Keys:YukonB 17B111 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-49203/DB554330-0673-11EA-92D9-ADA35A676FB4/iPhone12,3,iPhone12,5_13.2.3_17B111_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "c885d9cfb8c4082a07110a6c9f9cbe18",
+        "key": "825cbf7a9ae32505b95d064212c3854671a1aa50d220582b6e7dce5882f14b42"
+      }
+    }
+  },
+  "13.2": {
+    "17B84": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "575a271c75723a8293fee9d5047ace4c",
+        "key": "27dcfd774cad8fe6d4f2e3e62eb5c65359a12f6ef3618f4e96cb9d73bca9492e"
+      },
+      "_meta": {
+        "page": "Keys:YukonB 17B84 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/041-81649/FC40FF2A-F4E5-11E9-B08B-A0C134390AC5/iPhone12,3,iPhone12,5_13.2_17B84_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "bf3e3af19eb5f098364b119028f53625",
+        "key": "8ce6ecc2f0d52e13c66ebd1d8f881d9383fae03fd9d619644ab4f60a4c0781db"
+      }
+    },
+    "17B5059g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "20feafae543a3b14b097e8206fb01a23",
+        "key": "3e6e1cf5c654d768225fcf0318960168264b200b27dfce5f3d73e51949c35e72"
+      },
+      "_meta": {
+        "page": "Keys:YukonBSeed 17B5059g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-26059/3F5C4594-E3B1-11E9-81B3-AE6A7E17678C/iPhone12,3,iPhone12,5_13.2_17B5059g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "10798539692516c67cfaf54d036643ba",
+        "key": "b4a80c147715eb6b61e976de5b77db2ebc656a7bcd55353482933d8f690cd845"
+      }
+    },
+    "17B5068e": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7d5343d04ac8eeadf5a71c9bc11706be",
+        "key": "109fc5c69e076f9dce1eec805226ef9274ad26f1ca1b8b717b565d4523a60a21"
+      },
+      "_meta": {
+        "page": "Keys:YukonBSeed 17B5068e (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-28687/1A71B3E2-EA30-11E9-B7D3-A61B17E817B4/iPhone12,3,iPhone12,5_13.2_17B5068e_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "55ae1f442881e97d4ad5dccf413269e5",
+        "key": "4d2b01ea3cd13819762be362ef44fbf517ca27937fb660dc260b09ae9fe330ab"
+      }
+    },
+    "17B5077a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "8c73ae692747c65de5224ee745702c21",
+        "key": "2ac65d77575703eec985cd73857368ed3c7104af39d9dd2e925dae1fde7c8561"
+      },
+      "_meta": {
+        "page": "Keys:YukonBSeed 17B5077a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-32902/C3FEC6B6-EEFE-11E9-B317-E05B593A18FD/iPhone12,3,iPhone12,5_13.2_17B5077a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8847579b2248c762ede6178c1c1f6ba2",
+        "key": "2857bd2fdc3d9d28e5a7399952ec3edb553806a485b9cacb2957a900faa84bf5"
+      }
+    },
+    "17B5084a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7a2e499e2c8b377dc102696302acf555",
+        "key": "94958bb4bef9d9f61269ecdc0fbd83f87709ebc026e1125bee8a44551848f7ce"
+      },
+      "_meta": {
+        "page": "Keys:YukonBSeed 17B5084a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-38611/7BD1101A-F430-11E9-8666-F5A23634DDDC/iPhone12,3,iPhone12,5_13.2_17B5084a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "fa0e2da6b9e451ed492f44068b44c25a",
+        "key": "06cd2117cdb0c005928ddd5431eaa50e953f3ceeab4d5c89fa39cf5bb21dfc75"
+      }
+    }
+  },
+  "13.3": {
+    "17C54": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "03423cb427437fb7a0ee488deb9bf6e1",
+        "key": "055583ab601ea4d8ce104a7d4fa5db1493fd7e629d40f3921c91d5f37aba46ac"
+      },
+      "_meta": {
+        "page": "Keys:YukonC 17C54 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-61284/1ED66766-179E-11EA-AE05-B2F362E1CA37/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C54_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3193cffcda22662579a03688393b430f",
+        "key": "8a65ee7138fea98c4f82e8c54cca2811e41938acce75d246a79089962771740a"
+      }
+    },
+    "17C5032d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "87384bd67f636a5de8ec68ed4f430b12",
+        "key": "34ef471ed8d1bebc8751954bf1d33e5ed4bf3b38d3785c5a0ba518afbb1ecca8"
+      },
+      "_meta": {
+        "page": "Keys:YukonCSeed 17C5032d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-46121/43568E84-FE55-11E9-A119-35902FFB422E/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5032d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "251411e6a813b693ef7a73e659e7b4df",
+        "key": "954234ac76f85ecddb69da6b852ba922cac5a025a657f5fc0e11d9c2b5ee79fe"
+      }
+    },
+    "17C5038a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "ab1e077f46f1459f2a8b736a9f4e322a",
+        "key": "8c77dd92fc5ab61d82ff5e71579717bce3d83e49956458b1efd461dbd97f4426"
+      },
+      "_meta": {
+        "page": "Keys:YukonCSeed 17C5038a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-47466/3B1A2098-0272-11EA-8184-8EA229D4906D/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5038a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "96f6e9619bfd929c3bf0ec09b6deac6a",
+        "key": "934887d92b9ac2b422490d8c82508e25b01da120df613ff29bd0da43e409f6f8"
+      }
+    },
+    "17C5046a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "aed5b8653dfc709c2709463b321147b9",
+        "key": "40c82e40d9a3e0ca608d74429e94ee9fb01e06db0e9f6e9031206f0186d61787"
+      },
+      "_meta": {
+        "page": "Keys:YukonCSeed 17C5046a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-52365/D83D6A5A-0A25-11EA-BE69-9305C13A5CD7/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5046a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "25ddaa5a5272d1bbab34464fbc3d01d4",
+        "key": "69c5eff997cd7277b75d75e6b1b9b95490080836eeab318fb6c9ab0468386192"
+      }
+    },
+    "17C5053a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "aed5b8653dfc709c2709463b321147b9",
+        "key": "40c82e40d9a3e0ca608d74429e94ee9fb01e06db0e9f6e9031206f0186d61787"
+      },
+      "_meta": {
+        "page": "Keys:YukonCSeed 17C5053a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-60459/536C8EFA-1669-11EA-A872-9C650EA20AA6/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3_17C5053a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "25ddaa5a5272d1bbab34464fbc3d01d4",
+        "key": "69c5eff997cd7277b75d75e6b1b9b95490080836eeab318fb6c9ab0468386192"
+      }
+    }
+  },
+  "13.3.1": {
+    "17D50": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b6670e77281e8047d418a15b54d96712",
+        "key": "6ad3bb7b67150a1cea8459629485d33ad7c8e0d110dee50707352c5d72ce1722"
+      },
+      "_meta": {
+        "page": "Keys:YukonD 17D50 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-40459/74F04189-CC9F-4FE9-8CC5-6538B1A11951/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D50_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "47b5fb6682a6fb1cade4c7e533fe43ce",
+        "key": "3b14f00d4b4a11eb5f662ecf7d0cfd23fb45258bbc06f5b2d112ae8698d73f05"
+      }
+    },
+    "17D5026c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "1c75833dfb4ff56bde0aa8cb8a5edb8c",
+        "key": "803ce0203d7f300e4d314bc424c132897fad7052a1c7007b4dfa3b6e00036c32"
+      },
+      "_meta": {
+        "page": "Keys:YukonDSeed 17D5026c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-48726/9971E57A-1D45-11EA-9772-59989742F446/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5026c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "8a6537bd7ddaf1063488f62101cf0055",
+        "key": "53bc1789d04587501b4b48c4b53c90fd43778ecc8abf8bbcc7e5c458b115a726"
+      }
+    },
+    "17D5044a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "309031019076d815e32e7e59264fc14e",
+        "key": "aba95a6f5533ca2dcbcbd8e3ca1f35e8ef6be3d1b9083c75390499da6ea00fc4"
+      },
+      "_meta": {
+        "page": "Keys:YukonDSeed 17D5044a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallSeed/fullrestores/061-65476/800A24B3-4662-43EF-A648-3CAE57E5A667/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5044a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "95b5e9ebd532affd19c929fcd6219480",
+        "key": "9641df98ca9fd2248c621e3710094ef58b6138dff8eae5154b28e3196ce7f450"
+      }
+    },
+    "17D5050a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cb2a123b927c9eeab3b7ed576efd4736",
+        "key": "888b5c55bafc81923ca17335f3385fdfb79b8044c0c6dd5af52ee19f66a4819a"
+      },
+      "_meta": {
+        "page": "Keys:YukonDSeed 17D5050a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-69973/D65ED7AC-C16D-4D2A-9A8B-9174ACA676CB/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.3.1_17D5050a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e0bbba9ef868045e93ffe514a782732d",
+        "key": "c5185561e8a14326f4979596f3dd40e7a39d120faf8b473f661bc897b0d0d4cc"
+      }
+    }
+  },
+  "13.4": {
+    "17E255": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7f3c200ce230b01b91433b707023585e",
+        "key": "7138ee2c95be589bc0b95fd46df276bac2cdfdede2de32b10c549b6f27a32e52"
+      },
+      "_meta": {
+        "page": "Keys:YukonE 17E255 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-20287/0C81F0D6-2166-4954-A6CB-B1F5792C6F12/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E255_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cb6548310110d23557118cc41e217268",
+        "key": "be4c1092256900487bc80cf9918a3858dc94a58bc240fbba14407b3bc99b8437"
+      }
+    },
+    "17E5223h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "81a83ac1e36d4493edd67ac22c69eaa6",
+        "key": "82c821b0c7d2f0f6d918cec095ffdcb93ce47a73a90318e75b2fb9a4edf48b9c"
+      },
+      "_meta": {
+        "page": "Keys:YukonESeed 17E5223h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-63976/E5F8C687-6B2C-4081-8671-AB82327B6C79/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5223h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "476bd1e5a17e883b1ad7fcdca37d66de",
+        "key": "7910319df6bc9e727148464e4f99dcd16329d8bc6d2a6f54634427858b1fa9e5"
+      }
+    },
+    "17E5233g": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "f89959a01df214e55cbce02e428a80b1",
+        "key": "4a118e31922ba2a955ee1cdece61e0063059facaa04c39eace0fb169645edeac"
+      },
+      "_meta": {
+        "page": "Keys:YukonESeed 17E5233g (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-80043/05AA4959-4763-411E-AB57-CCA26EC29A2E/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5233g_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "d39b93c5b6d5ba77ff2a6f9c3fee91ed",
+        "key": "053190204cbd6b52f0e0a4aac25be721bf218b86776b19a16b556f963a5bc79b"
+      }
+    },
+    "17E5241d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "b6ae217821ddcbcf8656458e9857da77",
+        "key": "e6532073e37cda2617c5e8ef4dc6723e53d4f82facc11d1b20e2fa7b9e2e8448"
+      },
+      "_meta": {
+        "page": "Keys:YukonESeed 17E5241d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-82402/637814DF-5DD3-4C4B-B705-D6ED296C0B43/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5241d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "e221303311b96c0fd770fd77e00c07b0",
+        "key": "d912c60ded0506aec829be3e1e75661237d64f5f024d3225bef089d69fd11439"
+      }
+    },
+    "17E5249a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "96e88d6a9a6bc738c664da5a2036f10e",
+        "key": "51afec7765208dc3c410fdda840a3c566392faf40df509caad20d34fcbd19743"
+      },
+      "_meta": {
+        "page": "Keys:YukonESeed 17E5249a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-84015/B5095972-484F-4DFB-A8C8-FCD646700A80/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5249a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "b374bc68b8b8db0e1c5d1983d03b5eae",
+        "key": "cc0b8d5b53dfa305c80e453921539973579b9263d2e9a1ddde567fd42377cbd1"
+      }
+    },
+    "17E5255a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "222b598c7d611182d77c4a45500aef8f",
+        "key": "a42580c4a87d297667736c80696fe1539c838d6cb605973ebb2a4f902741ca85"
+      },
+      "_meta": {
+        "page": "Keys:YukonESeed 17E5255a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-87458/C947D827-2ED2-4A1B-BF54-681E5C39F2FD/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4_17E5255a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f212c42d79b7ce3a46a8787a6991b948",
+        "key": "f86f47f309d2398ac91aad2c848d49126428e54ca04197c27bd3ee212b833484"
+      }
+    }
+  },
+  "13.4.1": {
+    "17E262": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "7f3c200ce230b01b91433b707023585e",
+        "key": "7138ee2c95be589bc0b95fd46df276bac2cdfdede2de32b10c549b6f27a32e52"
+      },
+      "_meta": {
+        "page": "Keys:YukonE 17E262 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterFCS/fullrestores/061-91154/8CBD34FB-AE6D-47DD-87A6-5F613CD115F3/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.4.1_17E262_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "cb6548310110d23557118cc41e217268",
+        "key": "be4c1092256900487bc80cf9918a3858dc94a58bc240fbba14407b3bc99b8437"
+      }
+    }
+  },
+  "13.5": {
+    "17F75": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "af789d344433f4073f8c2b711977c185",
+        "key": "5c219a32e7a6a109fbf30fc9848151708bc02b61f1a8d1c0c8dfa68f7053a705"
+      },
+      "_meta": {
+        "page": "Keys:YukonF 17F75 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SpringFCS/fullrestores/061-71920/ECA2EA6C-DE74-409B-AECE-C2ECC03A9D4A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F75_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "be2aadd381f587f98c3924d33009d3ed",
+        "key": "b2002e7b9ca48f1bb3176f4a1f76468afd4f42619f83643f530a9ef5dd8acbcc"
+      }
+    },
+    "17F5054h": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d8471e6e929a2e1f833e8cc5a0da766b",
+        "key": "e0038d6af6efd91c66393cdcca758f96f83ba837fdc3b766632b6a0ff9a3b31c"
+      },
+      "_meta": {
+        "page": "Keys:YukonFSeed 17F5054h (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/auto/fullrestores/001-05614/2CAA0739-27DA-4B0F-B688-71D7EF2C3DB5/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F5054h_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "706dc8d65971687c756e324a83a41117",
+        "key": "7e43e6c002385b5e80435b2af788f8705c531cfbeaf6006288d1cc46a3d25394"
+      }
+    },
+    "17F5065a": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "989f2ec2a6895fdb88af64b8733375c5",
+        "key": "8dc19b838792ec7922ef41635e304804b541f0fae77f72cc3f3bd2fd37bf8591"
+      },
+      "_meta": {
+        "page": "Keys:YukonFSeed 17F5065a (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-06340/D0DE870B-B18A-42F6-B784-689580CBC54C/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5_17F5065a_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "3a9f30e4ff4b13b58d8672df3a14b1a3",
+        "key": "89a2643fa1ff68e450b120233dcedccb107fcb1f4aa81090f04a259e0e072a10"
+      }
+    }
+  },
+  "13.5.1": {
+    "17F80": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "d998077a43843ba16cc9ac62caa22047",
+        "key": "62d98b928983019c32cf781c1b11bdc1bdcf29ea89febded8fb11cbb2012608e"
+      },
+      "_meta": {
+        "page": "Keys:YukonF 17F80 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SpringFCS/fullrestores/001-09223/5B65BCF0-A082-11EA-AE88-6FEDF1CFE6E8/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.5.1_17F80_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "77e1271720dbb6f5a8838b5444a8cdd6",
+        "key": "209931438f2aa76de8401387521714308e9206c04ce833b041684da7da23f29b"
+      }
+    }
+  },
+  "13.4.5": {
+    "17F5034c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3a41fd42c24f8babad405a010f12dca1",
+        "key": "6a04b9503589a7fc47627beddd30b04b4b64f5c1640938adfd9a35ee3bc498bc"
+      },
+      "_meta": {
+        "page": "Keys:YukonFSeed 17F5034c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-88234/0E925DCB-6DB1-4FBA-8C1E-8796B8C53361/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4.5_17F5034c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "499c77bfcce6a895965d5cdac83a6591",
+        "key": "162db4921a381b70d54a6c4aedeb60816df3758cd9bf77ee43f4cd4fa5b9aef4"
+      }
+    },
+    "17F5044d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "300c62911eabf382022750ddc5c80bde",
+        "key": "f2ef9f24b53988d519d556f24353e5ebf8da94bca7b993e7762bed01a0366d96"
+      },
+      "_meta": {
+        "page": "Keys:YukonFSeed 17F5044d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/061-96015/AF13AC08-D9A0-4D75-97EF-4ADC85E7AF05/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.4.5_17F5044d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "6d0cf24914436032711b35aacbde5a30",
+        "key": "6218a84a91bc0d6b29d0b66a74bb3b92d8b7c7ae14b89ae7474009eeed68492e"
+      }
+    }
+  },
+  "13.6": {
+    "17G68": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3d7ade0ca164e96a5735e7671b392841",
+        "key": "f5df147dccee6374ae3459d5fc29d531aef2d974a92f994fae36f9d895a9be58"
+      },
+      "_meta": {
+        "page": "Keys:YukonG 17G68 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerSeed/fullrestores/061-92929/A243A2C9-125F-4A74-A5D8-227504A0610C/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G68_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "179f77ea15f01aecce380b882986fd55",
+        "key": "ebc024e6de467b34c582fc7d2b732d2f9b353b4e85fca24b2ee52174e0112794"
+      }
+    },
+    "17G5045c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "737c7d96f018e66d57d2f8148c89f6cb",
+        "key": "1bcd691cd8fcecff383defeeb45b5555ee190264022b1a854fbf92f8cd320983"
+      },
+      "_meta": {
+        "page": "Keys:YukonGSeed 17G5045c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SpringSeed/fullrestores/001-13315/B2D1A5AA-CE59-4687-9EE5-8C0B575A57BD/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G5045c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "f450779ba970eaf0b3f9117e166bddb2",
+        "key": "7850d3c6522e70e66b082c0b60fb8fee49fcad11bd039ba009ae129f843d80e1"
+      }
+    },
+    "17G5059c": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "155391cedba5e0c0b5e385a2b8ca3cba",
+        "key": "8378bcfdfdea9f847057fb7c976f48764e6d623908e988aaec946615042b28b0"
+      },
+      "_meta": {
+        "page": "Keys:YukonGSeed 17G5059c (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SpringSeed/fullrestores/001-16130/51B5A94B-AC13-4CF5-8AD5-95CA4A6B42B3/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.6_17G5059c_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "fd74ff3b60337ffe554293ca9285c161",
+        "key": "d0759222a7e588086f75bd606399cfcc1323a1518702afe09e0c4d0f0deb7251"
+      }
+    }
+  },
+  "13.6.1": {
+    "17G80": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "3d7ade0ca164e96a5735e7671b392841",
+        "key": "f5df147dccee6374ae3459d5fc29d531aef2d974a92f994fae36f9d895a9be58"
+      },
+      "_meta": {
+        "page": "Keys:YukonG 17G80 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-29362/88D9E49F-6964-4F9F-9F8F-31AFBEBFE7DA/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.6.1_17G80_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "179f77ea15f01aecce380b882986fd55",
+        "key": "ebc024e6de467b34c582fc7d2b732d2f9b353b4e85fca24b2ee52174e0112794"
+      }
+    }
+  },
+  "13.5.5": {
+    "17G5035d": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "284471eda4658ec1e9976fc4241be0c1",
+        "key": "d0bb287deaae67e725776f584004b7cf65cc2de0f96aec580818f1c849fc8295"
+      },
+      "_meta": {
+        "page": "Keys:YukonGSeed 17G5035d (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020WinterSeed/fullrestores/001-09869/3F4A0160-CE9F-4D7F-87E4-6C07F1003A3B/iPhone11,2,iPhone11,6,iPhone12,3,iPhone12,5_13.5.5_17G5035d_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "84342c1ab9acc5d0bc015c0cbfc97c10",
+        "key": "b827d105036a5d4f3eac59a468abf863aff3d4f460556ee6702c1524c7dfb030"
+      }
+    }
+  },
+  "13.7": {
+    "17H33": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cab82f586c87078c474fc9374547e014",
+        "key": "4e871e9cd279b08454dee8c13e7b34cd0bb7f7dfad51713e87069fb0d385b38a"
+      },
+      "_meta": {
+        "page": "Keys:YukonH 17H33 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-25194/7E5B0F8F-C94C-466E-A8D2-A5D1D1DBB022/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.7_17H33_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "82fcd9c0b42a7e6a92a531ca9c3f8d0c",
+        "key": "96056ba8517d0aa942cb003be7538a61d7a415b4ea568effceca18a34a8c412a"
+      }
+    },
+    "17H35": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "cab82f586c87078c474fc9374547e014",
+        "key": "4e871e9cd279b08454dee8c13e7b34cd0bb7f7dfad51713e87069fb0d385b38a"
+      },
+      "_meta": {
+        "page": "Keys:YukonH 17H35 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2020SummerFCS/fullrestores/001-42005/4D946BA1-A613-430C-B5E0-C424B5B9715A/iPhone11,2,iPhone11,4,iPhone11,6,iPhone12,3,iPhone12,5_13.7_17H35_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "82fcd9c0b42a7e6a92a531ca9c3f8d0c",
+        "key": "96056ba8517d0aa942cb003be7538a61d7a415b4ea568effceca18a34a8c412a"
+      }
+    }
+  },
+  "13.0": {
+    "17A577": {
+      "release": {
+        "filename": "iBEC.d421.RELEASE.im4p",
+        "iv": "96b50fc9ef542c70a6cebcc1c257fb76",
+        "key": "9a8cd344f86cf7dcef53ae8f463607888fd08f189f217730a1d7ebbbf930bc19"
+      },
+      "_meta": {
+        "page": "Keys:YukonPre 17A577 (iPhone12,3)",
+        "device": "iPhone12,3",
+        "url": "https://updates.cdn-apple.com/2019FallFCS/fullrestores/061-08653/B9079E72-C875-11E9-824B-8D27C2D77BF5/iPhone12,3,iPhone12,5_13.0_17A577_Restore.ipsw"
+      },
+      "iBSS_release": {
+        "filename": "iBSS.d421.RELEASE.im4p",
+        "iv": "0a7118db5a3838b31662de515d3b9991",
+        "key": "e1754472de49ca5623aa3d6f51c932f25c2d0516a5e57834a072df7e54a832e8"
+      }
+    }
+  }
+}
