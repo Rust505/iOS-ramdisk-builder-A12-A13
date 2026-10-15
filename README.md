@@ -263,56 +263,7 @@ Or manually add the required build to an existing JSON.
 | `sshtarlist.txt` | ✅ |
 | `restored_external` | ⚠️ optional |
 
-### System utilities
 
-`curl`, `xxd`, `python3`, `jq`, `ipsw`, `hdiutil`, `diskutil` (macOS)
-
----
-
-## 🐛 6. Troubleshooting
-
-### "iBSS not patched — build impossible"
-
-1. Check that `bin/iBootPatch` is not an HTML stub:
-   ```bash
-   xxd -l 4 bin/iBootPatch
-   # should be: cffaedfe / cefaedfe / feedface / feedfacf
-   ```
-2. If it's garbage – restore from surrealra1n release:
-   ```bash
-   curl -L -o bin/iBootPatch \
-     https://github.com/pwnerblu/surrealra1n/raw/refs/heads/main/bin/iBootPatch
-   chmod +x bin/iBootPatch
-   ```
-
-### "iBSS decrypted, but magic=9f97aa83" (garbage)
-
-The key in `keys/<PRODUCT>.txt` for `ibss-<VERSION>` is **wrong** (not for that file). Check:
-```bash
-grep -i "ibss-17.3.1" keys/iPhone12,1.txt
-```
-
-A correct key will produce `magic=0df74f6e` or `6e4ff70d`.
-
-### "missing IM4M: ..."
-
-Place the IM4M in `resources/`:
-```bash
-cp /path/to/IM4M_0x8030 resources/
-```
-IM4M is obtained from a signed SHSH2 (via `tsschecker`) or from a ready dump.
-
-### "BuildManifest mismatch"
-
-The iOS version does not match the build in the manifest. Use `--build <BUILD>` explicitly or omit `--version` when using `--url`.
-
-### Device doesn't boot after `bootx`
-
-- Verify `MODE: DFU` + `PWND: usbliter8` before running `boot.sh`
-- Ensure `iBSS.patched.bin` is built for your board (`n104`, `d421`, `d431`, `d79`)
-- Rebuild with `--kernel stock` – kernel patch may conflict
-
----
 
 ## 📖 7. Useful links
 
