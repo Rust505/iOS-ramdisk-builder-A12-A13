@@ -57,7 +57,7 @@ iOS-ramdisk-builder-A12-A13/
 - **Python 3.9+**
 - **pip** and packages from `requirements.txt`
 - Utilities: `curl`, `xxd`, `ipsw`, `jq` (usually preinstalled except `ipsw`)
-- **Pwned DFU** mode on the device (requires `Pi Pico` or `usbliter8`)
+- **Pwned DFU** mode on the device (requires `Pi Pico usbliter8`)
 - `sudo` for ramdisk operations
 
 ### Install dependencies
